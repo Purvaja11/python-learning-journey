@@ -1,0 +1,11 @@
+date,product,category,quantity,price
+2024-01-01,Laptop,Electronics,5,899.99
+2024-01-02,Mouse,Electronics,15,25.50
+2024-01-02,Desk Chair,Furniture,8,199.99
+2024-01-03,Monitor,Electronics,10,299.99
+2024-01-03,Desk Lamp,Furniture,12,45.00
+2024-01-04,Keyboard,Electronics,20,79.99
+2024-01-04,Notebook,Stationery,50,3.99
+2024-01-05,Pen Set,Stationery,30,12.50
+2024-01-05,Office Desk,Furniture,6,349.99
+2024-01-06,Webcam,Electronics,8,89.99
