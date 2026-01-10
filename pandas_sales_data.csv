@@ -1,0 +1,201 @@
+Date,Product,Category,Quantity,Unit_Price,Region,Customer_ID,Total,Month,Day,Weekday
+2024-01-07,USB Cable,Networking,7,919,East,Customer_47,6433,January,7,Sunday
+2024-01-20,Monitor,Accessories,14,379,North,Customer_40,5306,January,20,Saturday
+2024-01-29,USB Cable,Accessories,5,919,South,Customer_43,4595,January,29,Monday
+2024-01-15,Keyboard,Office,3,1739,South,Customer_12,5217,January,15,Monday
+2024-01-11,Headphones,Accessories,11,300,West,Customer_44,3300,January,11,Thursday
+2024-01-08,Mouse,Office,11,1238,South,Customer_36,13618,January,8,Monday
+2024-01-29,Printer,Accessories,18,1907,North,Customer_48,34326,January,29,Monday
+2024-01-21,Router,Accessories,15,1238,South,Customer_4,18570,January,21,Sunday
+2024-01-07,Webcam,Networking,12,686,East,Customer_5,8232,January,7,Sunday
+2024-01-26,Headphones,Storage,9,112,East,Customer_37,1008,January,26,Friday
+2024-01-19,Monitor,Office,10,691,West,Customer_8,6910,January,19,Friday
+2024-01-23,Printer,Accessories,12,1989,North,Customer_42,23868,January,23,Tuesday
+2024-01-11,USB Cable,Networking,17,80,East,Customer_49,1360,January,11,Thursday
+2024-01-11,Router,Electronics,6,653,East,Customer_28,3918,January,11,Thursday
+2024-01-24,USB Cable,Electronics,7,1094,North,Customer_31,7658,January,24,Wednesday
+2024-01-21,Laptop,Electronics,14,1446,South,Customer_9,20244,January,21,Sunday
+2024-01-04,Laptop,Storage,13,1832,South,Customer_29,23816,January,4,Thursday
+2024-01-08,Router,Accessories,8,1048,West,Customer_14,8384,January,8,Monday
+2024-01-24,Router,Accessories,10,1509,South,Customer_40,15090,January,24,Wednesday
+2024-01-03,Monitor,Accessories,9,623,North,Customer_41,5607,January,3,Wednesday
+2024-01-22,Router,Accessories,18,701,East,Customer_22,12618,January,22,Monday
+2024-01-21,Keyboard,Accessories,2,1872,South,Customer_11,3744,January,21,Sunday
+2024-01-02,USB Cable,Accessories,5,553,West,Customer_23,2765,January,2,Tuesday
+2024-01-24,Headphones,Accessories,5,1448,South,Customer_1,7240,January,24,Wednesday
+2024-01-12,External Drive,Networking,6,857,North,Customer_46,5142,January,12,Friday
+2024-01-30,Router,Office,19,1556,West,Customer_37,29564,January,30,Tuesday
+2024-01-06,Webcam,Accessories,8,664,South,Customer_21,5312,January,6,Saturday
+2024-01-02,Laptop,Office,16,252,West,Customer_26,4032,January,2,Tuesday
+2024-01-28,Keyboard,Office,13,543,North,Customer_46,7059,January,28,Sunday
+2024-01-21,Printer,Accessories,1,365,East,Customer_36,365,January,21,Sunday
+2024-01-01,External Drive,Electronics,17,1089,North,Customer_23,18513,January,1,Monday
+2024-01-12,Headphones,Electronics,7,565,North,Customer_1,3955,January,12,Friday
+2024-01-26,External Drive,Office,13,1988,North,Customer_40,25844,January,26,Friday
+2024-01-22,Router,Accessories,4,1121,North,Customer_15,4484,January,22,Monday
+2024-01-29,Monitor,Accessories,4,1773,East,Customer_21,7092,January,29,Monday
+2024-01-12,Laptop,Accessories,6,1856,East,Customer_47,11136,January,12,Friday
+2024-01-25,Laptop,Electronics,19,1966,West,Customer_9,37354,January,25,Thursday
+2024-01-17,Printer,Storage,12,1116,South,Customer_9,13392,January,17,Wednesday
+2024-01-27,Monitor,Accessories,7,813,East,Customer_10,5691,January,27,Saturday
+2024-01-27,USB Cable,Accessories,10,268,East,Customer_26,2680,January,27,Saturday
+2024-01-10,Mouse,Accessories,19,66,South,Customer_41,1254,January,10,Wednesday
+2024-01-28,Keyboard,Electronics,7,1164,East,Customer_35,8148,January,28,Sunday
+2024-01-28,Laptop,Accessories,3,233,North,Customer_25,699,January,28,Sunday
+2024-01-16,Webcam,Electronics,13,258,North,Customer_26,3354,January,16,Tuesday
+2024-01-15,Laptop,Accessories,13,1099,South,Customer_11,14287,January,15,Monday
+2024-01-30,External Drive,Accessories,18,369,West,Customer_38,6642,January,30,Tuesday
+2024-01-30,Laptop,Storage,8,126,West,Customer_2,1008,January,30,Tuesday
+2024-01-15,Laptop,Electronics,9,850,South,Customer_7,7650,January,15,Monday
+2024-01-30,Mouse,Accessories,7,67,South,Customer_18,469,January,30,Tuesday
+2024-01-19,Mouse,Office,1,1616,North,Customer_27,1616,January,19,Friday
+2024-01-12,Headphones,Accessories,3,356,West,Customer_34,1068,January,12,Friday
+2024-01-23,USB Cable,Electronics,13,1069,East,Customer_27,13897,January,23,Tuesday
+2024-01-20,Webcam,Storage,17,823,North,Customer_17,13991,January,20,Saturday
+2024-01-25,Laptop,Accessories,1,1300,South,Customer_43,1300,January,25,Thursday
+2024-01-03,Laptop,Office,6,27,West,Customer_44,162,January,3,Wednesday
+2024-01-05,Keyboard,Accessories,6,644,East,Customer_24,3864,January,5,Friday
+2024-01-19,Mouse,Office,12,1910,East,Customer_25,22920,January,19,Friday
+2024-01-07,Webcam,Accessories,13,1296,North,Customer_7,16848,January,7,Sunday
+2024-01-21,Printer,Office,13,1735,West,Customer_6,22555,January,21,Sunday
+2024-01-09,Headphones,Accessories,15,738,West,Customer_24,11070,January,9,Tuesday
+2024-01-07,USB Cable,Accessories,16,322,South,Customer_33,5152,January,7,Sunday
+2024-01-18,Monitor,Networking,11,658,West,Customer_49,7238,January,18,Thursday
+2024-01-04,USB Cable,Accessories,5,75,West,Customer_29,375,January,4,Thursday
+2024-01-25,External Drive,Electronics,4,745,North,Customer_43,2980,January,25,Thursday
+2024-01-28,Laptop,Office,3,545,West,Customer_22,1635,January,28,Sunday
+2024-01-14,Headphones,Office,19,493,East,Customer_26,9367,January,14,Sunday
+2024-01-18,External Drive,Electronics,18,47,North,Customer_28,846,January,18,Thursday
+2024-01-26,Webcam,Accessories,15,97,North,Customer_50,1455,January,26,Friday
+2024-01-09,Monitor,Accessories,9,1259,South,Customer_21,11331,January,9,Tuesday
+2024-01-26,Mouse,Networking,17,1429,West,Customer_49,24293,January,26,Friday
+2024-01-21,Headphones,Storage,14,384,South,Customer_7,5376,January,21,Sunday
+2024-01-02,Headphones,Accessories,15,685,East,Customer_17,10275,January,2,Tuesday
+2024-01-20,Laptop,Electronics,1,545,North,Customer_20,545,January,20,Saturday
+2024-01-28,Router,Accessories,3,718,North,Customer_41,2154,January,28,Sunday
+2024-01-15,Headphones,Accessories,16,1355,North,Customer_49,21680,January,15,Monday
+2024-01-28,Keyboard,Accessories,11,902,East,Customer_20,9922,January,28,Sunday
+2024-01-07,Monitor,Accessories,12,1050,East,Customer_22,12600,January,7,Sunday
+2024-01-12,Monitor,Accessories,10,1046,South,Customer_28,10460,January,12,Friday
+2024-01-29,Keyboard,Office,16,1666,South,Customer_40,26656,January,29,Monday
+2024-01-08,Printer,Accessories,8,938,South,Customer_49,7504,January,8,Monday
+2024-01-15,Keyboard,Accessories,6,769,West,Customer_7,4614,January,15,Monday
+2024-01-03,Keyboard,Accessories,12,382,North,Customer_1,4584,January,3,Wednesday
+2024-01-14,Monitor,Networking,8,1794,North,Customer_32,14352,January,14,Sunday
+2024-01-17,USB Cable,Accessories,4,1551,South,Customer_13,6204,January,17,Wednesday
+2024-01-04,Monitor,Electronics,8,1317,North,Customer_30,10536,January,4,Thursday
+2024-01-18,Router,Electronics,18,1549,South,Customer_23,27882,January,18,Thursday
+2024-01-08,Laptop,Accessories,5,825,West,Customer_19,4125,January,8,Monday
+2024-01-04,External Drive,Office,9,758,West,Customer_32,6822,January,4,Thursday
+2024-01-02,USB Cable,Office,4,1926,East,Customer_30,7704,January,2,Tuesday
+2024-01-30,Mouse,Accessories,17,1058,West,Customer_29,17986,January,30,Tuesday
+2024-01-06,External Drive,Accessories,9,1235,South,Customer_49,11115,January,6,Saturday
+2024-01-22,Laptop,Electronics,1,1674,West,Customer_45,1674,January,22,Monday
+2024-01-10,Router,Electronics,13,504,East,Customer_29,6552,January,10,Wednesday
+2024-01-04,Router,Accessories,16,47,North,Customer_30,752,January,4,Thursday
+2024-01-22,Mouse,Accessories,13,733,South,Customer_16,9529,January,22,Monday
+2024-01-29,USB Cable,Office,14,1082,North,Customer_40,15148,January,29,Monday
+2024-01-18,Printer,Office,3,1996,East,Customer_19,5988,January,18,Thursday
+2024-01-26,Keyboard,Accessories,6,1316,East,Customer_18,7896,January,26,Friday
+2024-01-12,USB Cable,Accessories,18,1274,East,Customer_1,22932,January,12,Friday
+2024-01-02,Printer,Electronics,19,105,North,Customer_14,1995,January,2,Tuesday
+2024-01-10,Router,Accessories,5,1517,North,Customer_47,7585,January,10,Wednesday
+2024-01-30,Monitor,Electronics,15,145,North,Customer_50,2175,January,30,Tuesday
+2024-01-04,Laptop,Office,2,831,North,Customer_2,1662,January,4,Thursday
+2024-01-14,Mouse,Office,10,556,East,Customer_28,5560,January,14,Sunday
+2024-01-16,Laptop,Accessories,18,164,East,Customer_49,2952,January,16,Tuesday
+2024-01-15,Webcam,Office,13,1568,South,Customer_50,20384,January,15,Monday
+2024-01-08,Webcam,Electronics,5,1255,South,Customer_30,6275,January,8,Monday
+2024-01-14,USB Cable,Storage,1,44,North,Customer_38,44,January,14,Sunday
+2024-01-23,Router,Accessories,1,1623,West,Customer_4,1623,January,23,Tuesday
+2024-01-28,Router,Electronics,18,1437,West,Customer_1,25866,January,28,Sunday
+2024-01-25,Keyboard,Storage,15,86,East,Customer_8,1290,January,25,Thursday
+2024-01-30,Keyboard,Accessories,17,252,East,Customer_29,4284,January,30,Tuesday
+2024-01-08,Keyboard,Accessories,11,128,East,Customer_39,1408,January,8,Monday
+2024-01-21,Monitor,Electronics,17,1189,South,Customer_3,20213,January,21,Sunday
+2024-01-16,External Drive,Electronics,13,130,South,Customer_32,1690,January,16,Tuesday
+2024-01-13,Headphones,Storage,1,247,East,Customer_10,247,January,13,Saturday
+2024-01-18,External Drive,Accessories,2,130,East,Customer_10,260,January,18,Thursday
+2024-01-15,Laptop,Accessories,9,1513,East,Customer_19,13617,January,15,Monday
+2024-01-21,External Drive,Electronics,3,53,West,Customer_46,159,January,21,Sunday
+2024-01-24,Monitor,Electronics,1,642,South,Customer_34,642,January,24,Wednesday
+2024-01-26,Laptop,Accessories,16,1819,West,Customer_33,29104,January,26,Friday
+2024-01-25,External Drive,Accessories,6,1979,West,Customer_23,11874,January,25,Thursday
+2024-01-28,Monitor,Accessories,17,1412,East,Customer_28,24004,January,28,Sunday
+2024-01-28,Headphones,Electronics,5,767,East,Customer_32,3835,January,28,Sunday
+2024-01-28,External Drive,Electronics,5,614,North,Customer_50,3070,January,28,Sunday
+2024-01-13,Monitor,Storage,6,1597,North,Customer_7,9582,January,13,Saturday
+2024-01-09,Keyboard,Office,3,444,West,Customer_29,1332,January,9,Tuesday
+2024-01-29,Router,Accessories,5,632,South,Customer_8,3160,January,29,Monday
+2024-01-15,Keyboard,Accessories,5,1561,East,Customer_1,7805,January,15,Monday
+2024-01-13,Router,Accessories,10,711,East,Customer_3,7110,January,13,Saturday
+2024-01-01,Mouse,Accessories,10,1325,West,Customer_24,13250,January,1,Monday
+2024-01-25,Mouse,Accessories,19,1363,North,Customer_23,25897,January,25,Thursday
+2024-01-07,Mouse,Electronics,17,1781,South,Customer_8,30277,January,7,Sunday
+2024-01-09,Headphones,Office,14,1486,North,Customer_47,20804,January,9,Tuesday
+2024-01-24,Keyboard,Storage,9,1995,North,Customer_37,17955,January,24,Wednesday
+2024-01-01,Router,Office,14,334,North,Customer_3,4676,January,1,Monday
+2024-01-12,Monitor,Office,1,896,North,Customer_33,896,January,12,Friday
+2024-01-08,Laptop,Office,19,1784,East,Customer_28,33896,January,8,Monday
+2024-01-24,Monitor,Accessories,13,1420,East,Customer_47,18460,January,24,Wednesday
+2024-01-11,Laptop,Accessories,13,1332,North,Customer_8,17316,January,11,Thursday
+2024-01-19,Webcam,Networking,4,1480,South,Customer_34,5920,January,19,Friday
+2024-01-17,Monitor,Accessories,1,681,West,Customer_35,681,January,17,Wednesday
+2024-01-08,External Drive,Electronics,17,296,South,Customer_32,5032,January,8,Monday
+2024-01-03,External Drive,Office,8,1753,South,Customer_24,14024,January,3,Wednesday
+2024-01-03,USB Cable,Accessories,2,1625,South,Customer_14,3250,January,3,Wednesday
+2024-01-01,Keyboard,Accessories,8,1546,North,Customer_32,12368,January,1,Monday
+2024-01-27,Laptop,Storage,7,643,East,Customer_46,4501,January,27,Saturday
+2024-01-05,Laptop,Electronics,2,535,South,Customer_43,1070,January,5,Friday
+2024-01-10,Keyboard,Networking,3,1393,North,Customer_16,4179,January,10,Wednesday
+2024-01-07,Headphones,Accessories,18,862,South,Customer_4,15516,January,7,Sunday
+2024-01-26,USB Cable,Networking,12,1489,South,Customer_37,17868,January,26,Friday
+2024-01-09,Headphones,Electronics,1,1873,North,Customer_21,1873,January,9,Tuesday
+2024-01-28,Headphones,Office,12,369,East,Customer_14,4428,January,28,Sunday
+2024-01-07,Headphones,Accessories,5,1650,East,Customer_31,8250,January,7,Sunday
+2024-01-09,Keyboard,Networking,17,1707,West,Customer_48,29019,January,9,Tuesday
+2024-01-08,Headphones,Storage,16,842,North,Customer_18,13472,January,8,Monday
+2024-01-12,External Drive,Accessories,15,1180,West,Customer_7,17700,January,12,Friday
+2024-01-02,Mouse,Electronics,15,778,West,Customer_10,11670,January,2,Tuesday
+2024-01-01,Webcam,Accessories,5,918,West,Customer_7,4590,January,1,Monday
+2024-01-16,Laptop,Electronics,14,262,East,Customer_33,3668,January,16,Tuesday
+2024-01-23,Laptop,Accessories,2,562,North,Customer_23,1124,January,23,Tuesday
+2024-01-23,Webcam,Electronics,11,1083,West,Customer_21,11913,January,23,Tuesday
+2024-01-30,Keyboard,Accessories,19,248,North,Customer_19,4712,January,30,Tuesday
+2024-01-24,Monitor,Storage,7,567,North,Customer_48,3969,January,24,Wednesday
+2024-01-05,Keyboard,Accessories,6,939,East,Customer_19,5634,January,5,Friday
+2024-01-03,Laptop,Accessories,2,1266,West,Customer_36,2532,January,3,Wednesday
+2024-01-12,Laptop,Electronics,6,25,West,Customer_29,150,January,12,Friday
+2024-01-08,Webcam,Accessories,18,1365,North,Customer_18,24570,January,8,Monday
+2024-01-22,Headphones,Accessories,2,487,South,Customer_2,974,January,22,Monday
+2024-01-27,Keyboard,Networking,18,1775,East,Customer_1,31950,January,27,Saturday
+2024-01-03,Router,Accessories,15,94,East,Customer_47,1410,January,3,Wednesday
+2024-01-01,Webcam,Networking,19,23,East,Customer_5,437,January,1,Monday
+2024-01-03,External Drive,Electronics,2,1890,East,Customer_20,3780,January,3,Wednesday
+2024-01-05,Laptop,Electronics,6,665,West,Customer_11,3990,January,5,Friday
+2024-01-15,Webcam,Electronics,1,137,West,Customer_42,137,January,15,Monday
+2024-01-14,Keyboard,Networking,15,900,South,Customer_2,13500,January,14,Sunday
+2024-01-03,Laptop,Accessories,10,1649,East,Customer_3,16490,January,3,Wednesday
+2024-01-01,Monitor,Accessories,19,523,East,Customer_23,9937,January,1,Monday
+2024-01-05,Webcam,Electronics,17,966,North,Customer_12,16422,January,5,Friday
+2024-01-26,USB Cable,Electronics,5,593,West,Customer_20,2965,January,26,Friday
+2024-01-23,Laptop,Networking,4,1484,East,Customer_5,5936,January,23,Tuesday
+2024-01-14,Keyboard,Accessories,10,213,South,Customer_37,2130,January,14,Sunday
+2024-01-07,Mouse,Networking,17,866,South,Customer_38,14722,January,7,Sunday
+2024-01-27,Router,Accessories,10,734,West,Customer_30,7340,January,27,Saturday
+2024-01-09,Printer,Electronics,17,1435,South,Customer_9,24395,January,9,Tuesday
+2024-01-15,Headphones,Accessories,5,1069,South,Customer_34,5345,January,15,Monday
+2024-01-15,Printer,Office,2,1478,West,Customer_44,2956,January,15,Monday
+2024-01-26,Keyboard,Accessories,6,192,East,Customer_35,1152,January,26,Friday
+2024-01-10,External Drive,Accessories,2,1343,East,Customer_22,2686,January,10,Wednesday
+2024-01-28,External Drive,Accessories,13,1688,South,Customer_44,21944,January,28,Sunday
+2024-01-13,Mouse,Networking,11,345,South,Customer_24,3795,January,13,Saturday
+2024-01-19,Headphones,Electronics,11,1453,East,Customer_17,15983,January,19,Friday
+2024-01-07,USB Cable,Accessories,16,1161,West,Customer_10,18576,January,7,Sunday
+2024-01-17,Mouse,Electronics,11,855,South,Customer_30,9405,January,17,Wednesday
+2024-01-20,Printer,Accessories,19,1830,North,Customer_46,34770,January,20,Saturday
+2024-01-29,Mouse,Accessories,15,743,West,Customer_23,11145,January,29,Monday
+2024-01-04,Printer,Networking,16,244,South,Customer_32,3904,January,4,Thursday
+2024-01-30,Laptop,Accessories,11,551,South,Customer_17,6061,January,30,Tuesday
+2024-01-05,External Drive,Accessories,16,132,North,Customer_50,2112,January,5,Friday
+2024-01-23,Laptop,Office,8,159,North,Customer_17,1272,January,23,Tuesday
