@@ -1,4 +1,4 @@
-"""Reatil Analytics Dashboard - Day 10 Task 3 Project
+"""Retail Analytics Dashboard - Day 10 Task 3 Project
 Advanced Pandas: Merging, time series, pivot tables, real analytics
 
 This mimcs real data analyst work!
