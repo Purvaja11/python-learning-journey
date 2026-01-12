@@ -1,0 +1,603 @@
+Order_Item_ID,Order_ID,Product_ID,Quantity,Product_Name,Category,Unit_Price,Stock,Line_Total,Customer_ID,Order_Date,Status,Name,Email,City,Join_Date,Month,Week,Weekday
+1,1,2,2,Mouse,Accessories,500,16,1000,60,2024-01-24,Cancelled,Customer_60,customer60@email.com,Delhi,2023-06-27,January,4,Wednesday
+2,1,5,4,Headphones,Accessories,2000,21,8000,60,2024-01-24,Cancelled,Customer_60,customer60@email.com,Delhi,2023-06-27,January,4,Wednesday
+3,1,8,3,Router,Networking,3500,57,10500,60,2024-01-24,Cancelled,Customer_60,customer60@email.com,Delhi,2023-06-27,January,4,Wednesday
+4,2,3,2,Keyboard,Accessories,1500,82,3000,97,2024-02-06,Shipped,Customer_97,customer97@email.com,Pune,2023-10-16,February,6,Tuesday
+5,2,6,3,Webcam,Accessories,3000,43,9000,97,2024-02-06,Shipped,Customer_97,customer97@email.com,Pune,2023-10-16,February,6,Tuesday
+6,2,7,3,USB Cable,Accessories,200,42,600,97,2024-02-06,Shipped,Customer_97,customer97@email.com,Pune,2023-10-16,February,6,Tuesday
+7,3,4,3,Monitor,Electronics,15000,81,45000,63,2024-02-04,Delivered,Customer_63,customer63@email.com,Pune,2023-07-06,February,5,Sunday
+8,3,1,4,Laptop,Electronics,50000,37,200000,63,2024-02-04,Delivered,Customer_63,customer63@email.com,Pune,2023-07-06,February,5,Sunday
+9,4,7,3,USB Cable,Accessories,200,42,600,85,2024-02-13,Delivered,Customer_85,customer85@email.com,Mumbai,2023-09-10,February,7,Tuesday
+10,4,4,1,Monitor,Electronics,15000,81,15000,85,2024-02-13,Delivered,Customer_85,customer85@email.com,Mumbai,2023-09-10,February,7,Tuesday
+11,5,9,1,External Drive,Storage,4000,32,4000,32,2024-02-09,Shipped,Customer_32,customer32@email.com,Chennai,2023-04-04,February,6,Friday
+12,5,5,3,Headphones,Accessories,2000,21,6000,32,2024-02-09,Shipped,Customer_32,customer32@email.com,Chennai,2023-04-04,February,6,Friday
+13,6,1,2,Laptop,Electronics,50000,37,100000,87,2024-01-22,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,January,4,Monday
+14,6,4,2,Monitor,Electronics,15000,81,30000,87,2024-01-22,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,January,4,Monday
+15,6,2,2,Mouse,Accessories,500,16,1000,87,2024-01-22,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,January,4,Monday
+16,7,10,1,Printer,Office,8000,71,8000,33,2024-01-27,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,January,4,Saturday
+17,8,6,1,Webcam,Accessories,3000,43,3000,67,2024-02-04,Processing,Customer_67,customer67@email.com,Delhi,2023-07-18,February,5,Sunday
+18,8,4,1,Monitor,Electronics,15000,81,15000,67,2024-02-04,Processing,Customer_67,customer67@email.com,Delhi,2023-07-18,February,5,Sunday
+19,9,8,1,Router,Networking,3500,57,3500,18,2024-01-01,Delivered,Customer_18,customer18@email.com,Pune,2023-02-21,January,1,Monday
+20,9,4,4,Monitor,Electronics,15000,81,60000,18,2024-01-01,Delivered,Customer_18,customer18@email.com,Pune,2023-02-21,January,1,Monday
+21,9,2,3,Mouse,Accessories,500,16,1500,18,2024-01-01,Delivered,Customer_18,customer18@email.com,Pune,2023-02-21,January,1,Monday
+22,10,3,3,Keyboard,Accessories,1500,82,4500,25,2024-02-04,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,February,5,Sunday
+23,10,4,4,Monitor,Electronics,15000,81,60000,25,2024-02-04,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,February,5,Sunday
+24,10,10,3,Printer,Office,8000,71,24000,25,2024-02-04,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,February,5,Sunday
+25,11,5,4,Headphones,Accessories,2000,21,8000,95,2024-02-06,Delivered,Customer_95,customer95@email.com,Mumbai,2023-10-10,February,6,Tuesday
+26,11,10,4,Printer,Office,8000,71,32000,95,2024-02-06,Delivered,Customer_95,customer95@email.com,Mumbai,2023-10-10,February,6,Tuesday
+27,11,6,2,Webcam,Accessories,3000,43,6000,95,2024-02-06,Delivered,Customer_95,customer95@email.com,Mumbai,2023-10-10,February,6,Tuesday
+28,12,10,2,Printer,Office,8000,71,16000,54,2024-02-16,Delivered,Customer_54,customer54@email.com,Pune,2023-06-09,February,7,Friday
+29,12,10,1,Printer,Office,8000,71,8000,54,2024-02-16,Delivered,Customer_54,customer54@email.com,Pune,2023-06-09,February,7,Friday
+30,12,8,2,Router,Networking,3500,57,7000,54,2024-02-16,Delivered,Customer_54,customer54@email.com,Pune,2023-06-09,February,7,Friday
+31,13,9,1,External Drive,Storage,4000,32,4000,58,2024-01-14,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,January,2,Sunday
+32,13,8,4,Router,Networking,3500,57,14000,58,2024-01-14,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,January,2,Sunday
+33,14,4,4,Monitor,Electronics,15000,81,60000,67,2024-01-03,Delivered,Customer_67,customer67@email.com,Delhi,2023-07-18,January,1,Wednesday
+34,14,4,1,Monitor,Electronics,15000,81,15000,67,2024-01-03,Delivered,Customer_67,customer67@email.com,Delhi,2023-07-18,January,1,Wednesday
+35,14,8,1,Router,Networking,3500,57,3500,67,2024-01-03,Delivered,Customer_67,customer67@email.com,Delhi,2023-07-18,January,1,Wednesday
+36,15,10,1,Printer,Office,8000,71,8000,46,2024-01-01,Delivered,Customer_46,customer46@email.com,Mumbai,2023-05-16,January,1,Monday
+37,15,10,1,Printer,Office,8000,71,8000,46,2024-01-01,Delivered,Customer_46,customer46@email.com,Mumbai,2023-05-16,January,1,Monday
+38,15,6,3,Webcam,Accessories,3000,43,9000,46,2024-01-01,Delivered,Customer_46,customer46@email.com,Mumbai,2023-05-16,January,1,Monday
+39,16,8,1,Router,Networking,3500,57,3500,24,2024-01-05,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,January,1,Friday
+40,17,7,1,USB Cable,Accessories,200,42,200,32,2024-01-26,Shipped,Customer_32,customer32@email.com,Chennai,2023-04-04,January,4,Friday
+41,17,5,1,Headphones,Accessories,2000,21,2000,32,2024-01-26,Shipped,Customer_32,customer32@email.com,Chennai,2023-04-04,January,4,Friday
+42,18,4,2,Monitor,Electronics,15000,81,30000,47,2024-02-24,Delivered,Customer_47,customer47@email.com,Delhi,2023-05-19,February,8,Saturday
+43,18,7,1,USB Cable,Accessories,200,42,200,47,2024-02-24,Delivered,Customer_47,customer47@email.com,Delhi,2023-05-19,February,8,Saturday
+44,19,6,3,Webcam,Accessories,3000,43,9000,86,2024-01-14,Cancelled,Customer_86,customer86@email.com,Mumbai,2023-09-13,January,2,Sunday
+45,20,8,3,Router,Networking,3500,57,10500,23,2024-02-08,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,6,Thursday
+46,20,5,3,Headphones,Accessories,2000,21,6000,23,2024-02-08,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,6,Thursday
+47,20,9,1,External Drive,Storage,4000,32,4000,23,2024-02-08,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,6,Thursday
+48,21,10,4,Printer,Office,8000,71,32000,66,2024-01-27,Delivered,Customer_66,customer66@email.com,Chennai,2023-07-15,January,4,Saturday
+49,22,5,2,Headphones,Accessories,2000,21,4000,27,2024-01-09,Processing,Customer_27,customer27@email.com,Bangalore,2023-03-20,January,2,Tuesday
+50,23,3,3,Keyboard,Accessories,1500,82,4500,2,2024-01-15,Delivered,Customer_2,customer2@email.com,Pune,2023-01-04,January,3,Monday
+51,24,10,3,Printer,Office,8000,71,24000,90,2024-01-15,Cancelled,Customer_90,customer90@email.com,Bangalore,2023-09-25,January,3,Monday
+52,25,2,3,Mouse,Accessories,500,16,1500,17,2024-01-26,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,January,4,Friday
+53,25,2,3,Mouse,Accessories,500,16,1500,17,2024-01-26,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,January,4,Friday
+54,26,1,4,Laptop,Electronics,50000,37,200000,33,2024-02-11,Cancelled,Customer_33,customer33@email.com,Chennai,2023-04-07,February,6,Sunday
+55,26,3,2,Keyboard,Accessories,1500,82,3000,33,2024-02-11,Cancelled,Customer_33,customer33@email.com,Chennai,2023-04-07,February,6,Sunday
+56,27,7,4,USB Cable,Accessories,200,42,800,9,2024-02-29,Delivered,Customer_9,customer9@email.com,Bangalore,2023-01-25,February,9,Thursday
+57,28,5,4,Headphones,Accessories,2000,21,8000,43,2024-01-13,Processing,Customer_43,customer43@email.com,Chennai,2023-05-07,January,2,Saturday
+58,28,1,1,Laptop,Electronics,50000,37,50000,43,2024-01-13,Processing,Customer_43,customer43@email.com,Chennai,2023-05-07,January,2,Saturday
+59,29,6,2,Webcam,Accessories,3000,43,6000,48,2024-02-20,Delivered,Customer_48,customer48@email.com,Pune,2023-05-22,February,8,Tuesday
+60,30,5,1,Headphones,Accessories,2000,21,2000,39,2024-02-01,Cancelled,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,5,Thursday
+61,30,7,1,USB Cable,Accessories,200,42,200,39,2024-02-01,Cancelled,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,5,Thursday
+62,31,1,4,Laptop,Electronics,50000,37,200000,93,2024-02-08,Delivered,Customer_93,customer93@email.com,Bangalore,2023-10-04,February,6,Thursday
+63,32,6,4,Webcam,Accessories,3000,43,12000,42,2024-02-18,Delivered,Customer_42,customer42@email.com,Mumbai,2023-05-04,February,7,Sunday
+64,32,8,1,Router,Networking,3500,57,3500,42,2024-02-18,Delivered,Customer_42,customer42@email.com,Mumbai,2023-05-04,February,7,Sunday
+65,33,1,4,Laptop,Electronics,50000,37,200000,26,2024-02-21,Cancelled,Customer_26,customer26@email.com,Bangalore,2023-03-17,February,8,Wednesday
+66,33,7,3,USB Cable,Accessories,200,42,600,26,2024-02-21,Cancelled,Customer_26,customer26@email.com,Bangalore,2023-03-17,February,8,Wednesday
+67,33,8,3,Router,Networking,3500,57,10500,26,2024-02-21,Cancelled,Customer_26,customer26@email.com,Bangalore,2023-03-17,February,8,Wednesday
+68,34,1,1,Laptop,Electronics,50000,37,50000,99,2024-02-01,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,February,5,Thursday
+69,34,8,3,Router,Networking,3500,57,10500,99,2024-02-01,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,February,5,Thursday
+70,35,1,2,Laptop,Electronics,50000,37,100000,50,2024-01-04,Delivered,Customer_50,customer50@email.com,Chennai,2023-05-28,January,1,Thursday
+71,35,3,3,Keyboard,Accessories,1500,82,4500,50,2024-01-04,Delivered,Customer_50,customer50@email.com,Chennai,2023-05-28,January,1,Thursday
+72,36,2,2,Mouse,Accessories,500,16,1000,25,2024-01-30,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,January,5,Tuesday
+73,36,1,2,Laptop,Electronics,50000,37,100000,25,2024-01-30,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,January,5,Tuesday
+74,37,6,3,Webcam,Accessories,3000,43,9000,24,2024-02-06,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,February,6,Tuesday
+75,37,4,1,Monitor,Electronics,15000,81,15000,24,2024-02-06,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,February,6,Tuesday
+76,38,7,3,USB Cable,Accessories,200,42,600,13,2024-01-23,Delivered,Customer_13,customer13@email.com,Pune,2023-02-06,January,4,Tuesday
+77,39,10,2,Printer,Office,8000,71,16000,60,2024-02-08,Delivered,Customer_60,customer60@email.com,Delhi,2023-06-27,February,6,Thursday
+78,39,3,2,Keyboard,Accessories,1500,82,3000,60,2024-02-08,Delivered,Customer_60,customer60@email.com,Delhi,2023-06-27,February,6,Thursday
+79,39,2,4,Mouse,Accessories,500,16,2000,60,2024-02-08,Delivered,Customer_60,customer60@email.com,Delhi,2023-06-27,February,6,Thursday
+80,40,7,3,USB Cable,Accessories,200,42,600,7,2024-02-14,Processing,Customer_7,customer7@email.com,Bangalore,2023-01-19,February,7,Wednesday
+81,41,7,1,USB Cable,Accessories,200,42,200,57,2024-01-15,Delivered,Customer_57,customer57@email.com,Chennai,2023-06-18,January,3,Monday
+82,41,8,1,Router,Networking,3500,57,3500,57,2024-01-15,Delivered,Customer_57,customer57@email.com,Chennai,2023-06-18,January,3,Monday
+83,42,7,3,USB Cable,Accessories,200,42,600,36,2024-02-12,Delivered,Customer_36,customer36@email.com,Pune,2023-04-16,February,7,Monday
+84,43,8,2,Router,Networking,3500,57,7000,45,2024-01-29,Cancelled,Customer_45,customer45@email.com,Delhi,2023-05-13,January,5,Monday
+85,43,9,3,External Drive,Storage,4000,32,12000,45,2024-01-29,Cancelled,Customer_45,customer45@email.com,Delhi,2023-05-13,January,5,Monday
+86,43,5,3,Headphones,Accessories,2000,21,6000,45,2024-01-29,Cancelled,Customer_45,customer45@email.com,Delhi,2023-05-13,January,5,Monday
+87,44,1,4,Laptop,Electronics,50000,37,200000,20,2024-02-05,Processing,Customer_20,customer20@email.com,Chennai,2023-02-27,February,6,Monday
+88,44,8,2,Router,Networking,3500,57,7000,20,2024-02-05,Processing,Customer_20,customer20@email.com,Chennai,2023-02-27,February,6,Monday
+89,44,3,4,Keyboard,Accessories,1500,82,6000,20,2024-02-05,Processing,Customer_20,customer20@email.com,Chennai,2023-02-27,February,6,Monday
+90,45,8,2,Router,Networking,3500,57,7000,65,2024-01-13,Delivered,Customer_65,customer65@email.com,Delhi,2023-07-12,January,2,Saturday
+91,45,4,4,Monitor,Electronics,15000,81,60000,65,2024-01-13,Delivered,Customer_65,customer65@email.com,Delhi,2023-07-12,January,2,Saturday
+92,46,6,1,Webcam,Accessories,3000,43,3000,8,2024-02-01,Delivered,Customer_8,customer8@email.com,Bangalore,2023-01-22,February,5,Thursday
+93,47,7,4,USB Cable,Accessories,200,42,800,16,2024-01-07,Delivered,Customer_16,customer16@email.com,Delhi,2023-02-15,January,1,Sunday
+94,47,2,3,Mouse,Accessories,500,16,1500,16,2024-01-07,Delivered,Customer_16,customer16@email.com,Delhi,2023-02-15,January,1,Sunday
+95,48,7,1,USB Cable,Accessories,200,42,200,14,2024-02-28,Delivered,Customer_14,customer14@email.com,Delhi,2023-02-09,February,9,Wednesday
+96,48,7,1,USB Cable,Accessories,200,42,200,14,2024-02-28,Delivered,Customer_14,customer14@email.com,Delhi,2023-02-09,February,9,Wednesday
+97,49,3,4,Keyboard,Accessories,1500,82,6000,76,2024-02-20,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,February,8,Tuesday
+98,49,2,2,Mouse,Accessories,500,16,1000,76,2024-02-20,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,February,8,Tuesday
+99,49,1,3,Laptop,Electronics,50000,37,150000,76,2024-02-20,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,February,8,Tuesday
+100,50,4,3,Monitor,Electronics,15000,81,45000,87,2024-01-22,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,January,4,Monday
+101,51,2,3,Mouse,Accessories,500,16,1500,15,2024-01-28,Delivered,Customer_15,customer15@email.com,Chennai,2023-02-12,January,4,Sunday
+102,51,7,3,USB Cable,Accessories,200,42,600,15,2024-01-28,Delivered,Customer_15,customer15@email.com,Chennai,2023-02-12,January,4,Sunday
+103,52,5,2,Headphones,Accessories,2000,21,4000,92,2024-01-02,Delivered,Customer_92,customer92@email.com,Mumbai,2023-10-01,January,1,Tuesday
+104,53,9,2,External Drive,Storage,4000,32,8000,98,2024-02-11,Cancelled,Customer_98,customer98@email.com,Delhi,2023-10-19,February,6,Sunday
+105,53,5,4,Headphones,Accessories,2000,21,8000,98,2024-02-11,Cancelled,Customer_98,customer98@email.com,Delhi,2023-10-19,February,6,Sunday
+106,54,4,2,Monitor,Electronics,15000,81,30000,66,2024-02-14,Cancelled,Customer_66,customer66@email.com,Chennai,2023-07-15,February,7,Wednesday
+107,54,6,4,Webcam,Accessories,3000,43,12000,66,2024-02-14,Cancelled,Customer_66,customer66@email.com,Chennai,2023-07-15,February,7,Wednesday
+108,54,8,1,Router,Networking,3500,57,3500,66,2024-02-14,Cancelled,Customer_66,customer66@email.com,Chennai,2023-07-15,February,7,Wednesday
+109,55,8,3,Router,Networking,3500,57,10500,32,2024-02-26,Delivered,Customer_32,customer32@email.com,Chennai,2023-04-04,February,9,Monday
+110,55,7,4,USB Cable,Accessories,200,42,800,32,2024-02-26,Delivered,Customer_32,customer32@email.com,Chennai,2023-04-04,February,9,Monday
+111,56,2,3,Mouse,Accessories,500,16,1500,87,2024-02-22,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,February,8,Thursday
+112,57,9,4,External Drive,Storage,4000,32,16000,63,2024-01-06,Delivered,Customer_63,customer63@email.com,Pune,2023-07-06,January,1,Saturday
+113,58,9,3,External Drive,Storage,4000,32,12000,86,2024-01-28,Shipped,Customer_86,customer86@email.com,Mumbai,2023-09-13,January,4,Sunday
+114,58,9,2,External Drive,Storage,4000,32,8000,86,2024-01-28,Shipped,Customer_86,customer86@email.com,Mumbai,2023-09-13,January,4,Sunday
+115,59,4,2,Monitor,Electronics,15000,81,30000,51,2024-01-28,Delivered,Customer_51,customer51@email.com,Chennai,2023-05-31,January,4,Sunday
+116,59,10,1,Printer,Office,8000,71,8000,51,2024-01-28,Delivered,Customer_51,customer51@email.com,Chennai,2023-05-31,January,4,Sunday
+117,60,2,3,Mouse,Accessories,500,16,1500,25,2024-02-13,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,February,7,Tuesday
+118,61,6,2,Webcam,Accessories,3000,43,6000,58,2024-02-13,Processing,Customer_58,customer58@email.com,Delhi,2023-06-21,February,7,Tuesday
+119,62,10,4,Printer,Office,8000,71,32000,63,2024-01-20,Shipped,Customer_63,customer63@email.com,Pune,2023-07-06,January,3,Saturday
+120,63,6,2,Webcam,Accessories,3000,43,6000,62,2024-01-30,Processing,Customer_62,customer62@email.com,Chennai,2023-07-03,January,5,Tuesday
+121,64,5,1,Headphones,Accessories,2000,21,2000,22,2024-01-11,Shipped,Customer_22,customer22@email.com,Pune,2023-03-05,January,2,Thursday
+122,65,10,4,Printer,Office,8000,71,32000,58,2024-02-27,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,February,9,Tuesday
+123,65,7,1,USB Cable,Accessories,200,42,200,58,2024-02-27,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,February,9,Tuesday
+124,66,6,1,Webcam,Accessories,3000,43,3000,58,2024-02-24,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,February,8,Saturday
+125,66,9,3,External Drive,Storage,4000,32,12000,58,2024-02-24,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,February,8,Saturday
+126,67,8,2,Router,Networking,3500,57,7000,86,2024-01-28,Processing,Customer_86,customer86@email.com,Mumbai,2023-09-13,January,4,Sunday
+127,67,9,1,External Drive,Storage,4000,32,4000,86,2024-01-28,Processing,Customer_86,customer86@email.com,Mumbai,2023-09-13,January,4,Sunday
+128,68,10,1,Printer,Office,8000,71,8000,49,2024-01-25,Processing,Customer_49,customer49@email.com,Delhi,2023-05-25,January,4,Thursday
+129,68,1,2,Laptop,Electronics,50000,37,100000,49,2024-01-25,Processing,Customer_49,customer49@email.com,Delhi,2023-05-25,January,4,Thursday
+130,68,5,4,Headphones,Accessories,2000,21,8000,49,2024-01-25,Processing,Customer_49,customer49@email.com,Delhi,2023-05-25,January,4,Thursday
+131,69,10,2,Printer,Office,8000,71,16000,52,2024-02-08,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,February,6,Thursday
+132,69,2,4,Mouse,Accessories,500,16,2000,52,2024-02-08,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,February,6,Thursday
+133,70,1,3,Laptop,Electronics,50000,37,150000,42,2024-02-02,Delivered,Customer_42,customer42@email.com,Mumbai,2023-05-04,February,5,Friday
+134,70,5,4,Headphones,Accessories,2000,21,8000,42,2024-02-02,Delivered,Customer_42,customer42@email.com,Mumbai,2023-05-04,February,5,Friday
+135,71,10,1,Printer,Office,8000,71,8000,70,2024-01-01,Delivered,Customer_70,customer70@email.com,Chennai,2023-07-27,January,1,Monday
+136,71,5,3,Headphones,Accessories,2000,21,6000,70,2024-01-01,Delivered,Customer_70,customer70@email.com,Chennai,2023-07-27,January,1,Monday
+137,71,8,3,Router,Networking,3500,57,10500,70,2024-01-01,Delivered,Customer_70,customer70@email.com,Chennai,2023-07-27,January,1,Monday
+138,72,7,4,USB Cable,Accessories,200,42,800,15,2024-02-26,Shipped,Customer_15,customer15@email.com,Chennai,2023-02-12,February,9,Monday
+139,73,6,2,Webcam,Accessories,3000,43,6000,54,2024-01-27,Cancelled,Customer_54,customer54@email.com,Pune,2023-06-09,January,4,Saturday
+140,73,7,3,USB Cable,Accessories,200,42,600,54,2024-01-27,Cancelled,Customer_54,customer54@email.com,Pune,2023-06-09,January,4,Saturday
+141,73,8,2,Router,Networking,3500,57,7000,54,2024-01-27,Cancelled,Customer_54,customer54@email.com,Pune,2023-06-09,January,4,Saturday
+142,74,5,4,Headphones,Accessories,2000,21,8000,60,2024-02-26,Delivered,Customer_60,customer60@email.com,Delhi,2023-06-27,February,9,Monday
+143,74,1,2,Laptop,Electronics,50000,37,100000,60,2024-02-26,Delivered,Customer_60,customer60@email.com,Delhi,2023-06-27,February,9,Monday
+144,75,4,3,Monitor,Electronics,15000,81,45000,97,2024-02-21,Delivered,Customer_97,customer97@email.com,Pune,2023-10-16,February,8,Wednesday
+145,75,3,4,Keyboard,Accessories,1500,82,6000,97,2024-02-21,Delivered,Customer_97,customer97@email.com,Pune,2023-10-16,February,8,Wednesday
+146,75,1,2,Laptop,Electronics,50000,37,100000,97,2024-02-21,Delivered,Customer_97,customer97@email.com,Pune,2023-10-16,February,8,Wednesday
+147,76,2,1,Mouse,Accessories,500,16,500,8,2024-01-13,Delivered,Customer_8,customer8@email.com,Bangalore,2023-01-22,January,2,Saturday
+148,76,10,2,Printer,Office,8000,71,16000,8,2024-01-13,Delivered,Customer_8,customer8@email.com,Bangalore,2023-01-22,January,2,Saturday
+149,76,5,1,Headphones,Accessories,2000,21,2000,8,2024-01-13,Delivered,Customer_8,customer8@email.com,Bangalore,2023-01-22,January,2,Saturday
+150,77,8,1,Router,Networking,3500,57,3500,53,2024-02-10,Cancelled,Customer_53,customer53@email.com,Chennai,2023-06-06,February,6,Saturday
+151,78,9,1,External Drive,Storage,4000,32,4000,60,2024-01-03,Shipped,Customer_60,customer60@email.com,Delhi,2023-06-27,January,1,Wednesday
+152,79,8,2,Router,Networking,3500,57,7000,5,2024-02-08,Shipped,Customer_5,customer5@email.com,Pune,2023-01-13,February,6,Thursday
+153,79,9,3,External Drive,Storage,4000,32,12000,5,2024-02-08,Shipped,Customer_5,customer5@email.com,Pune,2023-01-13,February,6,Thursday
+154,79,3,3,Keyboard,Accessories,1500,82,4500,5,2024-02-08,Shipped,Customer_5,customer5@email.com,Pune,2023-01-13,February,6,Thursday
+155,80,5,4,Headphones,Accessories,2000,21,8000,68,2024-01-06,Delivered,Customer_68,customer68@email.com,Delhi,2023-07-21,January,1,Saturday
+156,80,3,2,Keyboard,Accessories,1500,82,3000,68,2024-01-06,Delivered,Customer_68,customer68@email.com,Delhi,2023-07-21,January,1,Saturday
+157,81,2,4,Mouse,Accessories,500,16,2000,6,2024-01-08,Delivered,Customer_6,customer6@email.com,Delhi,2023-01-16,January,2,Monday
+158,81,3,1,Keyboard,Accessories,1500,82,1500,6,2024-01-08,Delivered,Customer_6,customer6@email.com,Delhi,2023-01-16,January,2,Monday
+159,82,1,1,Laptop,Electronics,50000,37,50000,96,2024-01-27,Delivered,Customer_96,customer96@email.com,Bangalore,2023-10-13,January,4,Saturday
+160,82,1,2,Laptop,Electronics,50000,37,100000,96,2024-01-27,Delivered,Customer_96,customer96@email.com,Bangalore,2023-10-13,January,4,Saturday
+161,82,9,3,External Drive,Storage,4000,32,12000,96,2024-01-27,Delivered,Customer_96,customer96@email.com,Bangalore,2023-10-13,January,4,Saturday
+162,83,8,3,Router,Networking,3500,57,10500,94,2024-01-09,Delivered,Customer_94,customer94@email.com,Bangalore,2023-10-07,January,2,Tuesday
+163,84,5,1,Headphones,Accessories,2000,21,2000,47,2024-02-06,Processing,Customer_47,customer47@email.com,Delhi,2023-05-19,February,6,Tuesday
+164,84,7,1,USB Cable,Accessories,200,42,200,47,2024-02-06,Processing,Customer_47,customer47@email.com,Delhi,2023-05-19,February,6,Tuesday
+165,84,6,4,Webcam,Accessories,3000,43,12000,47,2024-02-06,Processing,Customer_47,customer47@email.com,Delhi,2023-05-19,February,6,Tuesday
+166,85,8,1,Router,Networking,3500,57,3500,99,2024-02-02,Shipped,Customer_99,customer99@email.com,Delhi,2023-10-22,February,5,Friday
+167,85,2,1,Mouse,Accessories,500,16,500,99,2024-02-02,Shipped,Customer_99,customer99@email.com,Delhi,2023-10-22,February,5,Friday
+168,86,10,1,Printer,Office,8000,71,8000,55,2024-02-20,Cancelled,Customer_55,customer55@email.com,Bangalore,2023-06-12,February,8,Tuesday
+169,86,10,3,Printer,Office,8000,71,24000,55,2024-02-20,Cancelled,Customer_55,customer55@email.com,Bangalore,2023-06-12,February,8,Tuesday
+170,86,10,4,Printer,Office,8000,71,32000,55,2024-02-20,Cancelled,Customer_55,customer55@email.com,Bangalore,2023-06-12,February,8,Tuesday
+171,87,1,3,Laptop,Electronics,50000,37,150000,40,2024-02-11,Cancelled,Customer_40,customer40@email.com,Delhi,2023-04-28,February,6,Sunday
+172,87,10,1,Printer,Office,8000,71,8000,40,2024-02-11,Cancelled,Customer_40,customer40@email.com,Delhi,2023-04-28,February,6,Sunday
+173,87,6,2,Webcam,Accessories,3000,43,6000,40,2024-02-11,Cancelled,Customer_40,customer40@email.com,Delhi,2023-04-28,February,6,Sunday
+174,88,5,3,Headphones,Accessories,2000,21,6000,52,2024-02-13,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,February,7,Tuesday
+175,88,9,3,External Drive,Storage,4000,32,12000,52,2024-02-13,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,February,7,Tuesday
+176,88,8,2,Router,Networking,3500,57,7000,52,2024-02-13,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,February,7,Tuesday
+177,89,7,1,USB Cable,Accessories,200,42,200,16,2024-01-24,Shipped,Customer_16,customer16@email.com,Delhi,2023-02-15,January,4,Wednesday
+178,89,2,3,Mouse,Accessories,500,16,1500,16,2024-01-24,Shipped,Customer_16,customer16@email.com,Delhi,2023-02-15,January,4,Wednesday
+179,89,4,3,Monitor,Electronics,15000,81,45000,16,2024-01-24,Shipped,Customer_16,customer16@email.com,Delhi,2023-02-15,January,4,Wednesday
+180,90,2,3,Mouse,Accessories,500,16,1500,13,2024-01-15,Processing,Customer_13,customer13@email.com,Pune,2023-02-06,January,3,Monday
+181,90,10,3,Printer,Office,8000,71,24000,13,2024-01-15,Processing,Customer_13,customer13@email.com,Pune,2023-02-06,January,3,Monday
+182,90,1,2,Laptop,Electronics,50000,37,100000,13,2024-01-15,Processing,Customer_13,customer13@email.com,Pune,2023-02-06,January,3,Monday
+183,91,8,3,Router,Networking,3500,57,10500,30,2024-02-28,Shipped,Customer_30,customer30@email.com,Chennai,2023-03-29,February,9,Wednesday
+184,91,2,3,Mouse,Accessories,500,16,1500,30,2024-02-28,Shipped,Customer_30,customer30@email.com,Chennai,2023-03-29,February,9,Wednesday
+185,91,5,3,Headphones,Accessories,2000,21,6000,30,2024-02-28,Shipped,Customer_30,customer30@email.com,Chennai,2023-03-29,February,9,Wednesday
+186,92,7,3,USB Cable,Accessories,200,42,600,19,2024-02-23,Delivered,Customer_19,customer19@email.com,Mumbai,2023-02-24,February,8,Friday
+187,92,7,3,USB Cable,Accessories,200,42,600,19,2024-02-23,Delivered,Customer_19,customer19@email.com,Mumbai,2023-02-24,February,8,Friday
+188,93,4,1,Monitor,Electronics,15000,81,15000,17,2024-02-01,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,February,5,Thursday
+189,94,9,1,External Drive,Storage,4000,32,4000,63,2024-02-01,Delivered,Customer_63,customer63@email.com,Pune,2023-07-06,February,5,Thursday
+190,94,2,1,Mouse,Accessories,500,16,500,63,2024-02-01,Delivered,Customer_63,customer63@email.com,Pune,2023-07-06,February,5,Thursday
+191,95,10,4,Printer,Office,8000,71,32000,19,2024-01-24,Cancelled,Customer_19,customer19@email.com,Mumbai,2023-02-24,January,4,Wednesday
+192,96,2,3,Mouse,Accessories,500,16,1500,92,2024-02-10,Delivered,Customer_92,customer92@email.com,Mumbai,2023-10-01,February,6,Saturday
+193,96,3,2,Keyboard,Accessories,1500,82,3000,92,2024-02-10,Delivered,Customer_92,customer92@email.com,Mumbai,2023-10-01,February,6,Saturday
+194,97,7,1,USB Cable,Accessories,200,42,200,58,2024-02-21,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,February,8,Wednesday
+195,97,2,4,Mouse,Accessories,500,16,2000,58,2024-02-21,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,February,8,Wednesday
+196,98,7,2,USB Cable,Accessories,200,42,400,55,2024-02-18,Delivered,Customer_55,customer55@email.com,Bangalore,2023-06-12,February,7,Sunday
+197,98,4,1,Monitor,Electronics,15000,81,15000,55,2024-02-18,Delivered,Customer_55,customer55@email.com,Bangalore,2023-06-12,February,7,Sunday
+198,98,1,1,Laptop,Electronics,50000,37,50000,55,2024-02-18,Delivered,Customer_55,customer55@email.com,Bangalore,2023-06-12,February,7,Sunday
+199,99,5,4,Headphones,Accessories,2000,21,8000,90,2024-02-18,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,7,Sunday
+200,99,9,4,External Drive,Storage,4000,32,16000,90,2024-02-18,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,7,Sunday
+201,100,9,2,External Drive,Storage,4000,32,8000,90,2024-02-27,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,9,Tuesday
+202,100,9,3,External Drive,Storage,4000,32,12000,90,2024-02-27,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,9,Tuesday
+203,100,7,4,USB Cable,Accessories,200,42,800,90,2024-02-27,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,9,Tuesday
+204,101,1,2,Laptop,Electronics,50000,37,100000,62,2024-02-21,Delivered,Customer_62,customer62@email.com,Chennai,2023-07-03,February,8,Wednesday
+205,102,3,1,Keyboard,Accessories,1500,82,1500,23,2024-01-12,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,January,2,Friday
+206,103,8,2,Router,Networking,3500,57,7000,9,2024-02-08,Delivered,Customer_9,customer9@email.com,Bangalore,2023-01-25,February,6,Thursday
+207,103,2,4,Mouse,Accessories,500,16,2000,9,2024-02-08,Delivered,Customer_9,customer9@email.com,Bangalore,2023-01-25,February,6,Thursday
+208,104,5,1,Headphones,Accessories,2000,21,2000,12,2024-01-02,Shipped,Customer_12,customer12@email.com,Bangalore,2023-02-03,January,1,Tuesday
+209,104,1,1,Laptop,Electronics,50000,37,50000,12,2024-01-02,Shipped,Customer_12,customer12@email.com,Bangalore,2023-02-03,January,1,Tuesday
+210,105,9,3,External Drive,Storage,4000,32,12000,1,2024-01-03,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,January,1,Wednesday
+211,105,1,1,Laptop,Electronics,50000,37,50000,1,2024-01-03,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,January,1,Wednesday
+212,106,10,1,Printer,Office,8000,71,8000,58,2024-02-18,Processing,Customer_58,customer58@email.com,Delhi,2023-06-21,February,7,Sunday
+213,106,5,3,Headphones,Accessories,2000,21,6000,58,2024-02-18,Processing,Customer_58,customer58@email.com,Delhi,2023-06-21,February,7,Sunday
+214,106,6,3,Webcam,Accessories,3000,43,9000,58,2024-02-18,Processing,Customer_58,customer58@email.com,Delhi,2023-06-21,February,7,Sunday
+215,107,8,3,Router,Networking,3500,57,10500,1,2024-02-06,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,February,6,Tuesday
+216,107,2,1,Mouse,Accessories,500,16,500,1,2024-02-06,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,February,6,Tuesday
+217,107,7,4,USB Cable,Accessories,200,42,800,1,2024-02-06,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,February,6,Tuesday
+218,108,8,4,Router,Networking,3500,57,14000,34,2024-02-18,Delivered,Customer_34,customer34@email.com,Mumbai,2023-04-10,February,7,Sunday
+219,108,6,1,Webcam,Accessories,3000,43,3000,34,2024-02-18,Delivered,Customer_34,customer34@email.com,Mumbai,2023-04-10,February,7,Sunday
+220,108,3,1,Keyboard,Accessories,1500,82,1500,34,2024-02-18,Delivered,Customer_34,customer34@email.com,Mumbai,2023-04-10,February,7,Sunday
+221,109,10,3,Printer,Office,8000,71,24000,96,2024-02-25,Processing,Customer_96,customer96@email.com,Bangalore,2023-10-13,February,8,Sunday
+222,109,2,1,Mouse,Accessories,500,16,500,96,2024-02-25,Processing,Customer_96,customer96@email.com,Bangalore,2023-10-13,February,8,Sunday
+223,110,9,1,External Drive,Storage,4000,32,4000,48,2024-01-17,Delivered,Customer_48,customer48@email.com,Pune,2023-05-22,January,3,Wednesday
+224,110,10,3,Printer,Office,8000,71,24000,48,2024-01-17,Delivered,Customer_48,customer48@email.com,Pune,2023-05-22,January,3,Wednesday
+225,111,5,1,Headphones,Accessories,2000,21,2000,89,2024-02-28,Delivered,Customer_89,customer89@email.com,Chennai,2023-09-22,February,9,Wednesday
+226,111,6,3,Webcam,Accessories,3000,43,9000,89,2024-02-28,Delivered,Customer_89,customer89@email.com,Chennai,2023-09-22,February,9,Wednesday
+227,112,1,1,Laptop,Electronics,50000,37,50000,1,2024-02-18,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,February,7,Sunday
+228,112,3,4,Keyboard,Accessories,1500,82,6000,1,2024-02-18,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,February,7,Sunday
+229,112,10,1,Printer,Office,8000,71,8000,1,2024-02-18,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,February,7,Sunday
+230,113,10,3,Printer,Office,8000,71,24000,16,2024-01-02,Shipped,Customer_16,customer16@email.com,Delhi,2023-02-15,January,1,Tuesday
+231,114,2,2,Mouse,Accessories,500,16,1000,61,2024-01-02,Delivered,Customer_61,customer61@email.com,Delhi,2023-06-30,January,1,Tuesday
+232,114,1,4,Laptop,Electronics,50000,37,200000,61,2024-01-02,Delivered,Customer_61,customer61@email.com,Delhi,2023-06-30,January,1,Tuesday
+233,115,3,2,Keyboard,Accessories,1500,82,3000,64,2024-01-28,Shipped,Customer_64,customer64@email.com,Delhi,2023-07-09,January,4,Sunday
+234,115,8,1,Router,Networking,3500,57,3500,64,2024-01-28,Shipped,Customer_64,customer64@email.com,Delhi,2023-07-09,January,4,Sunday
+235,115,9,1,External Drive,Storage,4000,32,4000,64,2024-01-28,Shipped,Customer_64,customer64@email.com,Delhi,2023-07-09,January,4,Sunday
+236,116,5,2,Headphones,Accessories,2000,21,4000,63,2024-02-23,Delivered,Customer_63,customer63@email.com,Pune,2023-07-06,February,8,Friday
+237,116,9,4,External Drive,Storage,4000,32,16000,63,2024-02-23,Delivered,Customer_63,customer63@email.com,Pune,2023-07-06,February,8,Friday
+238,117,9,3,External Drive,Storage,4000,32,12000,69,2024-01-23,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,January,4,Tuesday
+239,117,9,2,External Drive,Storage,4000,32,8000,69,2024-01-23,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,January,4,Tuesday
+240,117,10,1,Printer,Office,8000,71,8000,69,2024-01-23,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,January,4,Tuesday
+241,118,8,1,Router,Networking,3500,57,3500,22,2024-02-06,Delivered,Customer_22,customer22@email.com,Pune,2023-03-05,February,6,Tuesday
+242,118,5,3,Headphones,Accessories,2000,21,6000,22,2024-02-06,Delivered,Customer_22,customer22@email.com,Pune,2023-03-05,February,6,Tuesday
+243,118,2,4,Mouse,Accessories,500,16,2000,22,2024-02-06,Delivered,Customer_22,customer22@email.com,Pune,2023-03-05,February,6,Tuesday
+244,119,6,4,Webcam,Accessories,3000,43,12000,93,2024-02-01,Delivered,Customer_93,customer93@email.com,Bangalore,2023-10-04,February,5,Thursday
+245,119,5,4,Headphones,Accessories,2000,21,8000,93,2024-02-01,Delivered,Customer_93,customer93@email.com,Bangalore,2023-10-04,February,5,Thursday
+246,119,10,2,Printer,Office,8000,71,16000,93,2024-02-01,Delivered,Customer_93,customer93@email.com,Bangalore,2023-10-04,February,5,Thursday
+247,120,5,4,Headphones,Accessories,2000,21,8000,67,2024-02-02,Delivered,Customer_67,customer67@email.com,Delhi,2023-07-18,February,5,Friday
+248,120,5,1,Headphones,Accessories,2000,21,2000,67,2024-02-02,Delivered,Customer_67,customer67@email.com,Delhi,2023-07-18,February,5,Friday
+249,121,2,4,Mouse,Accessories,500,16,2000,76,2024-01-01,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,January,1,Monday
+250,122,3,2,Keyboard,Accessories,1500,82,3000,26,2024-01-19,Delivered,Customer_26,customer26@email.com,Bangalore,2023-03-17,January,3,Friday
+251,123,8,4,Router,Networking,3500,57,14000,16,2024-01-02,Processing,Customer_16,customer16@email.com,Delhi,2023-02-15,January,1,Tuesday
+252,123,2,4,Mouse,Accessories,500,16,2000,16,2024-01-02,Processing,Customer_16,customer16@email.com,Delhi,2023-02-15,January,1,Tuesday
+253,123,1,2,Laptop,Electronics,50000,37,100000,16,2024-01-02,Processing,Customer_16,customer16@email.com,Delhi,2023-02-15,January,1,Tuesday
+254,124,8,4,Router,Networking,3500,57,14000,51,2024-02-22,Delivered,Customer_51,customer51@email.com,Chennai,2023-05-31,February,8,Thursday
+255,124,1,3,Laptop,Electronics,50000,37,150000,51,2024-02-22,Delivered,Customer_51,customer51@email.com,Chennai,2023-05-31,February,8,Thursday
+256,124,9,1,External Drive,Storage,4000,32,4000,51,2024-02-22,Delivered,Customer_51,customer51@email.com,Chennai,2023-05-31,February,8,Thursday
+257,125,9,1,External Drive,Storage,4000,32,4000,86,2024-02-13,Delivered,Customer_86,customer86@email.com,Mumbai,2023-09-13,February,7,Tuesday
+258,125,10,4,Printer,Office,8000,71,32000,86,2024-02-13,Delivered,Customer_86,customer86@email.com,Mumbai,2023-09-13,February,7,Tuesday
+259,125,6,4,Webcam,Accessories,3000,43,12000,86,2024-02-13,Delivered,Customer_86,customer86@email.com,Mumbai,2023-09-13,February,7,Tuesday
+260,126,5,3,Headphones,Accessories,2000,21,6000,57,2024-01-26,Shipped,Customer_57,customer57@email.com,Chennai,2023-06-18,January,4,Friday
+261,126,10,1,Printer,Office,8000,71,8000,57,2024-01-26,Shipped,Customer_57,customer57@email.com,Chennai,2023-06-18,January,4,Friday
+262,126,3,3,Keyboard,Accessories,1500,82,4500,57,2024-01-26,Shipped,Customer_57,customer57@email.com,Chennai,2023-06-18,January,4,Friday
+263,127,10,2,Printer,Office,8000,71,16000,29,2024-02-01,Delivered,Customer_29,customer29@email.com,Chennai,2023-03-26,February,5,Thursday
+264,127,5,2,Headphones,Accessories,2000,21,4000,29,2024-02-01,Delivered,Customer_29,customer29@email.com,Chennai,2023-03-26,February,5,Thursday
+265,127,7,3,USB Cable,Accessories,200,42,600,29,2024-02-01,Delivered,Customer_29,customer29@email.com,Chennai,2023-03-26,February,5,Thursday
+266,128,4,2,Monitor,Electronics,15000,81,30000,78,2024-01-06,Delivered,Customer_78,customer78@email.com,Chennai,2023-08-20,January,1,Saturday
+267,128,7,2,USB Cable,Accessories,200,42,400,78,2024-01-06,Delivered,Customer_78,customer78@email.com,Chennai,2023-08-20,January,1,Saturday
+268,129,1,1,Laptop,Electronics,50000,37,50000,92,2024-02-01,Processing,Customer_92,customer92@email.com,Mumbai,2023-10-01,February,5,Thursday
+269,130,8,3,Router,Networking,3500,57,10500,69,2024-02-24,Processing,Customer_69,customer69@email.com,Chennai,2023-07-24,February,8,Saturday
+270,131,8,1,Router,Networking,3500,57,3500,47,2024-01-04,Delivered,Customer_47,customer47@email.com,Delhi,2023-05-19,January,1,Thursday
+271,131,3,4,Keyboard,Accessories,1500,82,6000,47,2024-01-04,Delivered,Customer_47,customer47@email.com,Delhi,2023-05-19,January,1,Thursday
+272,132,3,2,Keyboard,Accessories,1500,82,3000,94,2024-02-24,Processing,Customer_94,customer94@email.com,Bangalore,2023-10-07,February,8,Saturday
+273,132,7,2,USB Cable,Accessories,200,42,400,94,2024-02-24,Processing,Customer_94,customer94@email.com,Bangalore,2023-10-07,February,8,Saturday
+274,133,2,3,Mouse,Accessories,500,16,1500,62,2024-01-11,Delivered,Customer_62,customer62@email.com,Chennai,2023-07-03,January,2,Thursday
+275,134,5,1,Headphones,Accessories,2000,21,2000,69,2024-02-25,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,8,Sunday
+276,134,6,4,Webcam,Accessories,3000,43,12000,69,2024-02-25,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,8,Sunday
+277,134,4,4,Monitor,Electronics,15000,81,60000,69,2024-02-25,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,8,Sunday
+278,135,4,3,Monitor,Electronics,15000,81,45000,76,2024-02-28,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,February,9,Wednesday
+279,135,1,4,Laptop,Electronics,50000,37,200000,76,2024-02-28,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,February,9,Wednesday
+280,136,1,2,Laptop,Electronics,50000,37,100000,16,2024-01-17,Cancelled,Customer_16,customer16@email.com,Delhi,2023-02-15,January,3,Wednesday
+281,136,6,1,Webcam,Accessories,3000,43,3000,16,2024-01-17,Cancelled,Customer_16,customer16@email.com,Delhi,2023-02-15,January,3,Wednesday
+282,137,10,4,Printer,Office,8000,71,32000,90,2024-02-07,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,6,Wednesday
+283,137,2,2,Mouse,Accessories,500,16,1000,90,2024-02-07,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,6,Wednesday
+284,138,4,3,Monitor,Electronics,15000,81,45000,90,2024-01-24,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,January,4,Wednesday
+285,138,3,4,Keyboard,Accessories,1500,82,6000,90,2024-01-24,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,January,4,Wednesday
+286,139,7,1,USB Cable,Accessories,200,42,200,48,2024-01-05,Delivered,Customer_48,customer48@email.com,Pune,2023-05-22,January,1,Friday
+287,140,1,2,Laptop,Electronics,50000,37,100000,85,2024-02-21,Delivered,Customer_85,customer85@email.com,Mumbai,2023-09-10,February,8,Wednesday
+288,140,3,3,Keyboard,Accessories,1500,82,4500,85,2024-02-21,Delivered,Customer_85,customer85@email.com,Mumbai,2023-09-10,February,8,Wednesday
+289,140,10,3,Printer,Office,8000,71,24000,85,2024-02-21,Delivered,Customer_85,customer85@email.com,Mumbai,2023-09-10,February,8,Wednesday
+290,141,2,2,Mouse,Accessories,500,16,1000,39,2024-02-03,Delivered,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,5,Saturday
+291,141,2,1,Mouse,Accessories,500,16,500,39,2024-02-03,Delivered,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,5,Saturday
+292,142,3,1,Keyboard,Accessories,1500,82,1500,100,2024-01-06,Delivered,Customer_100,customer100@email.com,Mumbai,2023-10-25,January,1,Saturday
+293,143,7,3,USB Cable,Accessories,200,42,600,33,2024-01-22,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,January,4,Monday
+294,144,4,4,Monitor,Electronics,15000,81,60000,94,2024-01-11,Delivered,Customer_94,customer94@email.com,Bangalore,2023-10-07,January,2,Thursday
+295,144,2,3,Mouse,Accessories,500,16,1500,94,2024-01-11,Delivered,Customer_94,customer94@email.com,Bangalore,2023-10-07,January,2,Thursday
+296,144,4,2,Monitor,Electronics,15000,81,30000,94,2024-01-11,Delivered,Customer_94,customer94@email.com,Bangalore,2023-10-07,January,2,Thursday
+297,145,3,1,Keyboard,Accessories,1500,82,1500,23,2024-02-17,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,7,Saturday
+298,145,8,4,Router,Networking,3500,57,14000,23,2024-02-17,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,7,Saturday
+299,145,5,3,Headphones,Accessories,2000,21,6000,23,2024-02-17,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,7,Saturday
+300,146,4,2,Monitor,Electronics,15000,81,30000,10,2024-01-16,Delivered,Customer_10,customer10@email.com,Pune,2023-01-28,January,3,Tuesday
+301,147,9,1,External Drive,Storage,4000,32,4000,69,2024-02-02,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,5,Friday
+302,147,3,3,Keyboard,Accessories,1500,82,4500,69,2024-02-02,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,5,Friday
+303,147,1,2,Laptop,Electronics,50000,37,100000,69,2024-02-02,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,5,Friday
+304,148,2,1,Mouse,Accessories,500,16,500,100,2024-01-09,Delivered,Customer_100,customer100@email.com,Mumbai,2023-10-25,January,2,Tuesday
+305,148,3,4,Keyboard,Accessories,1500,82,6000,100,2024-01-09,Delivered,Customer_100,customer100@email.com,Mumbai,2023-10-25,January,2,Tuesday
+306,149,9,4,External Drive,Storage,4000,32,16000,34,2024-02-29,Processing,Customer_34,customer34@email.com,Mumbai,2023-04-10,February,9,Thursday
+307,150,8,4,Router,Networking,3500,57,14000,52,2024-02-28,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,February,9,Wednesday
+308,150,9,1,External Drive,Storage,4000,32,4000,52,2024-02-28,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,February,9,Wednesday
+309,151,5,4,Headphones,Accessories,2000,21,8000,95,2024-01-06,Delivered,Customer_95,customer95@email.com,Mumbai,2023-10-10,January,1,Saturday
+310,152,2,4,Mouse,Accessories,500,16,2000,10,2024-01-16,Delivered,Customer_10,customer10@email.com,Pune,2023-01-28,January,3,Tuesday
+311,152,7,3,USB Cable,Accessories,200,42,600,10,2024-01-16,Delivered,Customer_10,customer10@email.com,Pune,2023-01-28,January,3,Tuesday
+312,152,5,4,Headphones,Accessories,2000,21,8000,10,2024-01-16,Delivered,Customer_10,customer10@email.com,Pune,2023-01-28,January,3,Tuesday
+313,153,3,4,Keyboard,Accessories,1500,82,6000,19,2024-01-29,Delivered,Customer_19,customer19@email.com,Mumbai,2023-02-24,January,5,Monday
+314,153,9,2,External Drive,Storage,4000,32,8000,19,2024-01-29,Delivered,Customer_19,customer19@email.com,Mumbai,2023-02-24,January,5,Monday
+315,154,7,1,USB Cable,Accessories,200,42,200,58,2024-01-03,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,January,1,Wednesday
+316,154,4,4,Monitor,Electronics,15000,81,60000,58,2024-01-03,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,January,1,Wednesday
+317,155,6,4,Webcam,Accessories,3000,43,12000,96,2024-01-20,Delivered,Customer_96,customer96@email.com,Bangalore,2023-10-13,January,3,Saturday
+318,156,6,2,Webcam,Accessories,3000,43,6000,1,2024-02-29,Delivered,Customer_1,customer1@email.com,Chennai,2023-01-01,February,9,Thursday
+319,157,5,2,Headphones,Accessories,2000,21,4000,69,2024-02-28,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,9,Wednesday
+320,158,1,4,Laptop,Electronics,50000,37,200000,4,2024-02-05,Delivered,Customer_4,customer4@email.com,Pune,2023-01-10,February,6,Monday
+321,158,5,2,Headphones,Accessories,2000,21,4000,4,2024-02-05,Delivered,Customer_4,customer4@email.com,Pune,2023-01-10,February,6,Monday
+322,158,2,2,Mouse,Accessories,500,16,1000,4,2024-02-05,Delivered,Customer_4,customer4@email.com,Pune,2023-01-10,February,6,Monday
+323,159,6,4,Webcam,Accessories,3000,43,12000,16,2024-01-19,Delivered,Customer_16,customer16@email.com,Delhi,2023-02-15,January,3,Friday
+324,159,9,1,External Drive,Storage,4000,32,4000,16,2024-01-19,Delivered,Customer_16,customer16@email.com,Delhi,2023-02-15,January,3,Friday
+325,159,6,1,Webcam,Accessories,3000,43,3000,16,2024-01-19,Delivered,Customer_16,customer16@email.com,Delhi,2023-02-15,January,3,Friday
+326,160,6,3,Webcam,Accessories,3000,43,9000,24,2024-01-26,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,January,4,Friday
+327,160,8,1,Router,Networking,3500,57,3500,24,2024-01-26,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,January,4,Friday
+328,160,1,4,Laptop,Electronics,50000,37,200000,24,2024-01-26,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,January,4,Friday
+329,161,6,2,Webcam,Accessories,3000,43,6000,80,2024-01-03,Delivered,Customer_80,customer80@email.com,Chennai,2023-08-26,January,1,Wednesday
+330,162,10,4,Printer,Office,8000,71,32000,2,2024-01-19,Delivered,Customer_2,customer2@email.com,Pune,2023-01-04,January,3,Friday
+331,163,1,2,Laptop,Electronics,50000,37,100000,92,2024-01-20,Delivered,Customer_92,customer92@email.com,Mumbai,2023-10-01,January,3,Saturday
+332,163,1,1,Laptop,Electronics,50000,37,50000,92,2024-01-20,Delivered,Customer_92,customer92@email.com,Mumbai,2023-10-01,January,3,Saturday
+333,164,1,1,Laptop,Electronics,50000,37,50000,32,2024-02-01,Delivered,Customer_32,customer32@email.com,Chennai,2023-04-04,February,5,Thursday
+334,165,6,3,Webcam,Accessories,3000,43,9000,91,2024-01-07,Delivered,Customer_91,customer91@email.com,Bangalore,2023-09-28,January,1,Sunday
+335,165,2,2,Mouse,Accessories,500,16,1000,91,2024-01-07,Delivered,Customer_91,customer91@email.com,Bangalore,2023-09-28,January,1,Sunday
+336,166,10,2,Printer,Office,8000,71,16000,84,2024-02-21,Shipped,Customer_84,customer84@email.com,Pune,2023-09-07,February,8,Wednesday
+337,166,10,2,Printer,Office,8000,71,16000,84,2024-02-21,Shipped,Customer_84,customer84@email.com,Pune,2023-09-07,February,8,Wednesday
+338,166,2,2,Mouse,Accessories,500,16,1000,84,2024-02-21,Shipped,Customer_84,customer84@email.com,Pune,2023-09-07,February,8,Wednesday
+339,167,1,4,Laptop,Electronics,50000,37,200000,24,2024-02-10,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,February,6,Saturday
+340,167,3,3,Keyboard,Accessories,1500,82,4500,24,2024-02-10,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,February,6,Saturday
+341,167,6,1,Webcam,Accessories,3000,43,3000,24,2024-02-10,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,February,6,Saturday
+342,168,9,3,External Drive,Storage,4000,32,12000,12,2024-02-02,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,February,5,Friday
+343,168,9,2,External Drive,Storage,4000,32,8000,12,2024-02-02,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,February,5,Friday
+344,169,4,2,Monitor,Electronics,15000,81,30000,50,2024-02-09,Processing,Customer_50,customer50@email.com,Chennai,2023-05-28,February,6,Friday
+345,169,7,3,USB Cable,Accessories,200,42,600,50,2024-02-09,Processing,Customer_50,customer50@email.com,Chennai,2023-05-28,February,6,Friday
+346,170,10,2,Printer,Office,8000,71,16000,35,2024-02-08,Processing,Customer_35,customer35@email.com,Bangalore,2023-04-13,February,6,Thursday
+347,170,10,3,Printer,Office,8000,71,24000,35,2024-02-08,Processing,Customer_35,customer35@email.com,Bangalore,2023-04-13,February,6,Thursday
+348,171,9,4,External Drive,Storage,4000,32,16000,33,2024-01-18,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,January,3,Thursday
+349,171,10,2,Printer,Office,8000,71,16000,33,2024-01-18,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,January,3,Thursday
+350,171,2,2,Mouse,Accessories,500,16,1000,33,2024-01-18,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,January,3,Thursday
+351,172,9,1,External Drive,Storage,4000,32,4000,33,2024-02-09,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,February,6,Friday
+352,172,3,2,Keyboard,Accessories,1500,82,3000,33,2024-02-09,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,February,6,Friday
+353,172,3,3,Keyboard,Accessories,1500,82,4500,33,2024-02-09,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,February,6,Friday
+354,173,4,1,Monitor,Electronics,15000,81,15000,61,2024-01-01,Shipped,Customer_61,customer61@email.com,Delhi,2023-06-30,January,1,Monday
+355,173,8,1,Router,Networking,3500,57,3500,61,2024-01-01,Shipped,Customer_61,customer61@email.com,Delhi,2023-06-30,January,1,Monday
+356,174,5,3,Headphones,Accessories,2000,21,6000,51,2024-01-11,Shipped,Customer_51,customer51@email.com,Chennai,2023-05-31,January,2,Thursday
+357,174,3,4,Keyboard,Accessories,1500,82,6000,51,2024-01-11,Shipped,Customer_51,customer51@email.com,Chennai,2023-05-31,January,2,Thursday
+358,174,2,2,Mouse,Accessories,500,16,1000,51,2024-01-11,Shipped,Customer_51,customer51@email.com,Chennai,2023-05-31,January,2,Thursday
+359,175,3,2,Keyboard,Accessories,1500,82,3000,43,2024-01-28,Delivered,Customer_43,customer43@email.com,Chennai,2023-05-07,January,4,Sunday
+360,175,5,4,Headphones,Accessories,2000,21,8000,43,2024-01-28,Delivered,Customer_43,customer43@email.com,Chennai,2023-05-07,January,4,Sunday
+361,176,3,4,Keyboard,Accessories,1500,82,6000,12,2024-02-26,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,February,9,Monday
+362,177,3,3,Keyboard,Accessories,1500,82,4500,67,2024-01-25,Delivered,Customer_67,customer67@email.com,Delhi,2023-07-18,January,4,Thursday
+363,177,6,3,Webcam,Accessories,3000,43,9000,67,2024-01-25,Delivered,Customer_67,customer67@email.com,Delhi,2023-07-18,January,4,Thursday
+364,178,1,3,Laptop,Electronics,50000,37,150000,65,2024-02-19,Delivered,Customer_65,customer65@email.com,Delhi,2023-07-12,February,8,Monday
+365,178,1,2,Laptop,Electronics,50000,37,100000,65,2024-02-19,Delivered,Customer_65,customer65@email.com,Delhi,2023-07-12,February,8,Monday
+366,178,5,3,Headphones,Accessories,2000,21,6000,65,2024-02-19,Delivered,Customer_65,customer65@email.com,Delhi,2023-07-12,February,8,Monday
+367,179,8,4,Router,Networking,3500,57,14000,33,2024-01-23,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,January,4,Tuesday
+368,179,5,4,Headphones,Accessories,2000,21,8000,33,2024-01-23,Delivered,Customer_33,customer33@email.com,Chennai,2023-04-07,January,4,Tuesday
+369,180,4,4,Monitor,Electronics,15000,81,60000,40,2024-01-31,Delivered,Customer_40,customer40@email.com,Delhi,2023-04-28,January,5,Wednesday
+370,180,8,2,Router,Networking,3500,57,7000,40,2024-01-31,Delivered,Customer_40,customer40@email.com,Delhi,2023-04-28,January,5,Wednesday
+371,181,3,4,Keyboard,Accessories,1500,82,6000,74,2024-01-30,Delivered,Customer_74,customer74@email.com,Delhi,2023-08-08,January,5,Tuesday
+372,182,4,2,Monitor,Electronics,15000,81,30000,43,2024-02-11,Shipped,Customer_43,customer43@email.com,Chennai,2023-05-07,February,6,Sunday
+373,183,2,4,Mouse,Accessories,500,16,2000,44,2024-02-04,Delivered,Customer_44,customer44@email.com,Delhi,2023-05-10,February,5,Sunday
+374,184,2,4,Mouse,Accessories,500,16,2000,29,2024-01-07,Delivered,Customer_29,customer29@email.com,Chennai,2023-03-26,January,1,Sunday
+375,184,6,3,Webcam,Accessories,3000,43,9000,29,2024-01-07,Delivered,Customer_29,customer29@email.com,Chennai,2023-03-26,January,1,Sunday
+376,185,3,3,Keyboard,Accessories,1500,82,4500,13,2024-02-29,Shipped,Customer_13,customer13@email.com,Pune,2023-02-06,February,9,Thursday
+377,185,10,2,Printer,Office,8000,71,16000,13,2024-02-29,Shipped,Customer_13,customer13@email.com,Pune,2023-02-06,February,9,Thursday
+378,186,3,1,Keyboard,Accessories,1500,82,1500,12,2024-01-16,Processing,Customer_12,customer12@email.com,Bangalore,2023-02-03,January,3,Tuesday
+379,187,8,1,Router,Networking,3500,57,3500,95,2024-01-26,Delivered,Customer_95,customer95@email.com,Mumbai,2023-10-10,January,4,Friday
+380,187,1,3,Laptop,Electronics,50000,37,150000,95,2024-01-26,Delivered,Customer_95,customer95@email.com,Mumbai,2023-10-10,January,4,Friday
+381,188,8,4,Router,Networking,3500,57,14000,46,2024-02-17,Delivered,Customer_46,customer46@email.com,Mumbai,2023-05-16,February,7,Saturday
+382,188,7,2,USB Cable,Accessories,200,42,400,46,2024-02-17,Delivered,Customer_46,customer46@email.com,Mumbai,2023-05-16,February,7,Saturday
+383,189,2,3,Mouse,Accessories,500,16,1500,2,2024-02-26,Delivered,Customer_2,customer2@email.com,Pune,2023-01-04,February,9,Monday
+384,189,5,1,Headphones,Accessories,2000,21,2000,2,2024-02-26,Delivered,Customer_2,customer2@email.com,Pune,2023-01-04,February,9,Monday
+385,190,9,2,External Drive,Storage,4000,32,8000,35,2024-02-21,Delivered,Customer_35,customer35@email.com,Bangalore,2023-04-13,February,8,Wednesday
+386,190,6,4,Webcam,Accessories,3000,43,12000,35,2024-02-21,Delivered,Customer_35,customer35@email.com,Bangalore,2023-04-13,February,8,Wednesday
+387,191,8,3,Router,Networking,3500,57,10500,87,2024-02-29,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,February,9,Thursday
+388,192,4,2,Monitor,Electronics,15000,81,30000,81,2024-02-18,Delivered,Customer_81,customer81@email.com,Pune,2023-08-29,February,7,Sunday
+389,193,6,1,Webcam,Accessories,3000,43,3000,90,2024-01-02,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,January,1,Tuesday
+390,193,9,1,External Drive,Storage,4000,32,4000,90,2024-01-02,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,January,1,Tuesday
+391,193,2,3,Mouse,Accessories,500,16,1500,90,2024-01-02,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,January,1,Tuesday
+392,194,5,3,Headphones,Accessories,2000,21,6000,8,2024-01-01,Delivered,Customer_8,customer8@email.com,Bangalore,2023-01-22,January,1,Monday
+393,195,8,4,Router,Networking,3500,57,14000,93,2024-02-17,Delivered,Customer_93,customer93@email.com,Bangalore,2023-10-04,February,7,Saturday
+394,196,7,3,USB Cable,Accessories,200,42,600,26,2024-01-12,Delivered,Customer_26,customer26@email.com,Bangalore,2023-03-17,January,2,Friday
+395,197,10,3,Printer,Office,8000,71,24000,74,2024-01-05,Delivered,Customer_74,customer74@email.com,Delhi,2023-08-08,January,1,Friday
+396,197,6,2,Webcam,Accessories,3000,43,6000,74,2024-01-05,Delivered,Customer_74,customer74@email.com,Delhi,2023-08-08,January,1,Friday
+397,197,10,1,Printer,Office,8000,71,8000,74,2024-01-05,Delivered,Customer_74,customer74@email.com,Delhi,2023-08-08,January,1,Friday
+398,198,9,1,External Drive,Storage,4000,32,4000,90,2024-02-06,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,6,Tuesday
+399,198,5,4,Headphones,Accessories,2000,21,8000,90,2024-02-06,Delivered,Customer_90,customer90@email.com,Bangalore,2023-09-25,February,6,Tuesday
+400,199,1,1,Laptop,Electronics,50000,37,50000,34,2024-02-01,Delivered,Customer_34,customer34@email.com,Mumbai,2023-04-10,February,5,Thursday
+401,199,6,4,Webcam,Accessories,3000,43,12000,34,2024-02-01,Delivered,Customer_34,customer34@email.com,Mumbai,2023-04-10,February,5,Thursday
+402,199,9,3,External Drive,Storage,4000,32,12000,34,2024-02-01,Delivered,Customer_34,customer34@email.com,Mumbai,2023-04-10,February,5,Thursday
+403,200,5,4,Headphones,Accessories,2000,21,8000,7,2024-02-28,Processing,Customer_7,customer7@email.com,Bangalore,2023-01-19,February,9,Wednesday
+404,201,1,1,Laptop,Electronics,50000,37,50000,68,2024-02-24,Delivered,Customer_68,customer68@email.com,Delhi,2023-07-21,February,8,Saturday
+405,202,6,4,Webcam,Accessories,3000,43,12000,58,2024-01-09,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,January,2,Tuesday
+406,202,4,2,Monitor,Electronics,15000,81,30000,58,2024-01-09,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,January,2,Tuesday
+407,202,2,1,Mouse,Accessories,500,16,500,58,2024-01-09,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,January,2,Tuesday
+408,203,5,4,Headphones,Accessories,2000,21,8000,75,2024-02-10,Shipped,Customer_75,customer75@email.com,Pune,2023-08-11,February,6,Saturday
+409,203,10,1,Printer,Office,8000,71,8000,75,2024-02-10,Shipped,Customer_75,customer75@email.com,Pune,2023-08-11,February,6,Saturday
+410,203,1,3,Laptop,Electronics,50000,37,150000,75,2024-02-10,Shipped,Customer_75,customer75@email.com,Pune,2023-08-11,February,6,Saturday
+411,204,6,1,Webcam,Accessories,3000,43,3000,29,2024-02-04,Delivered,Customer_29,customer29@email.com,Chennai,2023-03-26,February,5,Sunday
+412,204,5,3,Headphones,Accessories,2000,21,6000,29,2024-02-04,Delivered,Customer_29,customer29@email.com,Chennai,2023-03-26,February,5,Sunday
+413,204,5,1,Headphones,Accessories,2000,21,2000,29,2024-02-04,Delivered,Customer_29,customer29@email.com,Chennai,2023-03-26,February,5,Sunday
+414,205,3,2,Keyboard,Accessories,1500,82,3000,36,2024-01-19,Delivered,Customer_36,customer36@email.com,Pune,2023-04-16,January,3,Friday
+415,206,4,1,Monitor,Electronics,15000,81,15000,89,2024-02-17,Delivered,Customer_89,customer89@email.com,Chennai,2023-09-22,February,7,Saturday
+416,206,2,4,Mouse,Accessories,500,16,2000,89,2024-02-17,Delivered,Customer_89,customer89@email.com,Chennai,2023-09-22,February,7,Saturday
+417,207,2,1,Mouse,Accessories,500,16,500,21,2024-01-16,Delivered,Customer_21,customer21@email.com,Delhi,2023-03-02,January,3,Tuesday
+418,207,2,1,Mouse,Accessories,500,16,500,21,2024-01-16,Delivered,Customer_21,customer21@email.com,Delhi,2023-03-02,January,3,Tuesday
+419,207,9,3,External Drive,Storage,4000,32,12000,21,2024-01-16,Delivered,Customer_21,customer21@email.com,Delhi,2023-03-02,January,3,Tuesday
+420,208,8,3,Router,Networking,3500,57,10500,36,2024-01-03,Shipped,Customer_36,customer36@email.com,Pune,2023-04-16,January,1,Wednesday
+421,208,2,3,Mouse,Accessories,500,16,1500,36,2024-01-03,Shipped,Customer_36,customer36@email.com,Pune,2023-04-16,January,1,Wednesday
+422,208,6,4,Webcam,Accessories,3000,43,12000,36,2024-01-03,Shipped,Customer_36,customer36@email.com,Pune,2023-04-16,January,1,Wednesday
+423,209,4,4,Monitor,Electronics,15000,81,60000,10,2024-01-20,Delivered,Customer_10,customer10@email.com,Pune,2023-01-28,January,3,Saturday
+424,209,2,2,Mouse,Accessories,500,16,1000,10,2024-01-20,Delivered,Customer_10,customer10@email.com,Pune,2023-01-28,January,3,Saturday
+425,209,7,4,USB Cable,Accessories,200,42,800,10,2024-01-20,Delivered,Customer_10,customer10@email.com,Pune,2023-01-28,January,3,Saturday
+426,210,5,1,Headphones,Accessories,2000,21,2000,73,2024-01-24,Delivered,Customer_73,customer73@email.com,Pune,2023-08-05,January,4,Wednesday
+427,210,7,4,USB Cable,Accessories,200,42,800,73,2024-01-24,Delivered,Customer_73,customer73@email.com,Pune,2023-08-05,January,4,Wednesday
+428,211,6,1,Webcam,Accessories,3000,43,3000,24,2024-02-23,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,February,8,Friday
+429,212,6,3,Webcam,Accessories,3000,43,9000,64,2024-02-25,Delivered,Customer_64,customer64@email.com,Delhi,2023-07-09,February,8,Sunday
+430,212,2,1,Mouse,Accessories,500,16,500,64,2024-02-25,Delivered,Customer_64,customer64@email.com,Delhi,2023-07-09,February,8,Sunday
+431,212,7,3,USB Cable,Accessories,200,42,600,64,2024-02-25,Delivered,Customer_64,customer64@email.com,Delhi,2023-07-09,February,8,Sunday
+432,213,10,2,Printer,Office,8000,71,16000,99,2024-02-02,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,February,5,Friday
+433,213,2,2,Mouse,Accessories,500,16,1000,99,2024-02-02,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,February,5,Friday
+434,214,10,4,Printer,Office,8000,71,32000,49,2024-01-24,Delivered,Customer_49,customer49@email.com,Delhi,2023-05-25,January,4,Wednesday
+435,215,8,1,Router,Networking,3500,57,3500,99,2024-02-21,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,February,8,Wednesday
+436,215,8,1,Router,Networking,3500,57,3500,99,2024-02-21,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,February,8,Wednesday
+437,215,4,1,Monitor,Electronics,15000,81,15000,99,2024-02-21,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,February,8,Wednesday
+438,216,3,3,Keyboard,Accessories,1500,82,4500,36,2024-01-11,Cancelled,Customer_36,customer36@email.com,Pune,2023-04-16,January,2,Thursday
+439,217,5,4,Headphones,Accessories,2000,21,8000,82,2024-02-18,Delivered,Customer_82,customer82@email.com,Mumbai,2023-09-01,February,7,Sunday
+440,217,5,1,Headphones,Accessories,2000,21,2000,82,2024-02-18,Delivered,Customer_82,customer82@email.com,Mumbai,2023-09-01,February,7,Sunday
+441,218,2,2,Mouse,Accessories,500,16,1000,96,2024-01-08,Delivered,Customer_96,customer96@email.com,Bangalore,2023-10-13,January,2,Monday
+442,218,6,3,Webcam,Accessories,3000,43,9000,96,2024-01-08,Delivered,Customer_96,customer96@email.com,Bangalore,2023-10-13,January,2,Monday
+443,219,1,1,Laptop,Electronics,50000,37,50000,24,2024-02-05,Delivered,Customer_24,customer24@email.com,Mumbai,2023-03-11,February,6,Monday
+444,220,9,1,External Drive,Storage,4000,32,4000,23,2024-02-07,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,6,Wednesday
+445,221,9,3,External Drive,Storage,4000,32,12000,62,2024-02-09,Delivered,Customer_62,customer62@email.com,Chennai,2023-07-03,February,6,Friday
+446,222,6,2,Webcam,Accessories,3000,43,6000,96,2024-01-20,Delivered,Customer_96,customer96@email.com,Bangalore,2023-10-13,January,3,Saturday
+447,222,4,2,Monitor,Electronics,15000,81,30000,96,2024-01-20,Delivered,Customer_96,customer96@email.com,Bangalore,2023-10-13,January,3,Saturday
+448,223,6,2,Webcam,Accessories,3000,43,6000,37,2024-02-04,Delivered,Customer_37,customer37@email.com,Bangalore,2023-04-19,February,5,Sunday
+449,223,2,1,Mouse,Accessories,500,16,500,37,2024-02-04,Delivered,Customer_37,customer37@email.com,Bangalore,2023-04-19,February,5,Sunday
+450,223,9,3,External Drive,Storage,4000,32,12000,37,2024-02-04,Delivered,Customer_37,customer37@email.com,Bangalore,2023-04-19,February,5,Sunday
+451,224,1,4,Laptop,Electronics,50000,37,200000,12,2024-02-17,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,February,7,Saturday
+452,224,6,3,Webcam,Accessories,3000,43,9000,12,2024-02-17,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,February,7,Saturday
+453,224,9,1,External Drive,Storage,4000,32,4000,12,2024-02-17,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,February,7,Saturday
+454,225,1,4,Laptop,Electronics,50000,37,200000,55,2024-01-25,Delivered,Customer_55,customer55@email.com,Bangalore,2023-06-12,January,4,Thursday
+455,225,10,3,Printer,Office,8000,71,24000,55,2024-01-25,Delivered,Customer_55,customer55@email.com,Bangalore,2023-06-12,January,4,Thursday
+456,225,5,3,Headphones,Accessories,2000,21,6000,55,2024-01-25,Delivered,Customer_55,customer55@email.com,Bangalore,2023-06-12,January,4,Thursday
+457,226,9,1,External Drive,Storage,4000,32,4000,13,2024-02-04,Processing,Customer_13,customer13@email.com,Pune,2023-02-06,February,5,Sunday
+458,227,1,3,Laptop,Electronics,50000,37,150000,23,2024-01-25,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,January,4,Thursday
+459,228,10,3,Printer,Office,8000,71,24000,89,2024-01-29,Delivered,Customer_89,customer89@email.com,Chennai,2023-09-22,January,5,Monday
+460,228,3,4,Keyboard,Accessories,1500,82,6000,89,2024-01-29,Delivered,Customer_89,customer89@email.com,Chennai,2023-09-22,January,5,Monday
+461,229,10,2,Printer,Office,8000,71,16000,99,2024-01-18,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,January,3,Thursday
+462,229,9,3,External Drive,Storage,4000,32,12000,99,2024-01-18,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,January,3,Thursday
+463,230,10,4,Printer,Office,8000,71,32000,30,2024-02-15,Cancelled,Customer_30,customer30@email.com,Chennai,2023-03-29,February,7,Thursday
+464,231,6,4,Webcam,Accessories,3000,43,12000,17,2024-01-18,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,January,3,Thursday
+465,231,5,1,Headphones,Accessories,2000,21,2000,17,2024-01-18,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,January,3,Thursday
+466,232,9,4,External Drive,Storage,4000,32,16000,62,2024-01-02,Delivered,Customer_62,customer62@email.com,Chennai,2023-07-03,January,1,Tuesday
+467,232,5,2,Headphones,Accessories,2000,21,4000,62,2024-01-02,Delivered,Customer_62,customer62@email.com,Chennai,2023-07-03,January,1,Tuesday
+468,233,4,3,Monitor,Electronics,15000,81,45000,84,2024-02-23,Cancelled,Customer_84,customer84@email.com,Pune,2023-09-07,February,8,Friday
+469,234,7,2,USB Cable,Accessories,200,42,400,89,2024-02-04,Processing,Customer_89,customer89@email.com,Chennai,2023-09-22,February,5,Sunday
+470,234,2,4,Mouse,Accessories,500,16,2000,89,2024-02-04,Processing,Customer_89,customer89@email.com,Chennai,2023-09-22,February,5,Sunday
+471,234,5,3,Headphones,Accessories,2000,21,6000,89,2024-02-04,Processing,Customer_89,customer89@email.com,Chennai,2023-09-22,February,5,Sunday
+472,235,7,4,USB Cable,Accessories,200,42,800,86,2024-01-16,Shipped,Customer_86,customer86@email.com,Mumbai,2023-09-13,January,3,Tuesday
+473,235,5,4,Headphones,Accessories,2000,21,8000,86,2024-01-16,Shipped,Customer_86,customer86@email.com,Mumbai,2023-09-13,January,3,Tuesday
+474,235,9,4,External Drive,Storage,4000,32,16000,86,2024-01-16,Shipped,Customer_86,customer86@email.com,Mumbai,2023-09-13,January,3,Tuesday
+475,236,3,3,Keyboard,Accessories,1500,82,4500,13,2024-02-10,Delivered,Customer_13,customer13@email.com,Pune,2023-02-06,February,6,Saturday
+476,236,4,1,Monitor,Electronics,15000,81,15000,13,2024-02-10,Delivered,Customer_13,customer13@email.com,Pune,2023-02-06,February,6,Saturday
+477,236,6,3,Webcam,Accessories,3000,43,9000,13,2024-02-10,Delivered,Customer_13,customer13@email.com,Pune,2023-02-06,February,6,Saturday
+478,237,4,4,Monitor,Electronics,15000,81,60000,59,2024-02-05,Delivered,Customer_59,customer59@email.com,Chennai,2023-06-24,February,6,Monday
+479,237,5,4,Headphones,Accessories,2000,21,8000,59,2024-02-05,Delivered,Customer_59,customer59@email.com,Chennai,2023-06-24,February,6,Monday
+480,238,3,4,Keyboard,Accessories,1500,82,6000,19,2024-02-02,Delivered,Customer_19,customer19@email.com,Mumbai,2023-02-24,February,5,Friday
+481,238,10,4,Printer,Office,8000,71,32000,19,2024-02-02,Delivered,Customer_19,customer19@email.com,Mumbai,2023-02-24,February,5,Friday
+482,239,2,2,Mouse,Accessories,500,16,1000,49,2024-01-04,Processing,Customer_49,customer49@email.com,Delhi,2023-05-25,January,1,Thursday
+483,239,1,1,Laptop,Electronics,50000,37,50000,49,2024-01-04,Processing,Customer_49,customer49@email.com,Delhi,2023-05-25,January,1,Thursday
+484,240,9,2,External Drive,Storage,4000,32,8000,100,2024-02-02,Delivered,Customer_100,customer100@email.com,Mumbai,2023-10-25,February,5,Friday
+485,240,7,3,USB Cable,Accessories,200,42,600,100,2024-02-02,Delivered,Customer_100,customer100@email.com,Mumbai,2023-10-25,February,5,Friday
+486,241,7,1,USB Cable,Accessories,200,42,200,12,2024-01-14,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,January,2,Sunday
+487,241,7,3,USB Cable,Accessories,200,42,600,12,2024-01-14,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,January,2,Sunday
+488,242,10,1,Printer,Office,8000,71,8000,61,2024-01-21,Delivered,Customer_61,customer61@email.com,Delhi,2023-06-30,January,3,Sunday
+489,243,8,4,Router,Networking,3500,57,14000,19,2024-02-17,Shipped,Customer_19,customer19@email.com,Mumbai,2023-02-24,February,7,Saturday
+490,243,4,4,Monitor,Electronics,15000,81,60000,19,2024-02-17,Shipped,Customer_19,customer19@email.com,Mumbai,2023-02-24,February,7,Saturday
+491,244,7,2,USB Cable,Accessories,200,42,400,76,2024-01-20,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,January,3,Saturday
+492,244,1,4,Laptop,Electronics,50000,37,200000,76,2024-01-20,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,January,3,Saturday
+493,245,10,3,Printer,Office,8000,71,24000,9,2024-02-25,Delivered,Customer_9,customer9@email.com,Bangalore,2023-01-25,February,8,Sunday
+494,246,7,2,USB Cable,Accessories,200,42,400,71,2024-01-08,Delivered,Customer_71,customer71@email.com,Mumbai,2023-07-30,January,2,Monday
+495,246,6,1,Webcam,Accessories,3000,43,3000,71,2024-01-08,Delivered,Customer_71,customer71@email.com,Mumbai,2023-07-30,January,2,Monday
+496,246,6,4,Webcam,Accessories,3000,43,12000,71,2024-01-08,Delivered,Customer_71,customer71@email.com,Mumbai,2023-07-30,January,2,Monday
+497,247,10,1,Printer,Office,8000,71,8000,28,2024-01-07,Delivered,Customer_28,customer28@email.com,Delhi,2023-03-23,January,1,Sunday
+498,248,10,4,Printer,Office,8000,71,32000,78,2024-01-03,Delivered,Customer_78,customer78@email.com,Chennai,2023-08-20,January,1,Wednesday
+499,248,10,1,Printer,Office,8000,71,8000,78,2024-01-03,Delivered,Customer_78,customer78@email.com,Chennai,2023-08-20,January,1,Wednesday
+500,248,10,4,Printer,Office,8000,71,32000,78,2024-01-03,Delivered,Customer_78,customer78@email.com,Chennai,2023-08-20,January,1,Wednesday
+501,249,10,3,Printer,Office,8000,71,24000,95,2024-01-17,Delivered,Customer_95,customer95@email.com,Mumbai,2023-10-10,January,3,Wednesday
+502,250,4,2,Monitor,Electronics,15000,81,30000,52,2024-02-02,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,February,5,Friday
+503,251,4,4,Monitor,Electronics,15000,81,60000,83,2024-02-17,Delivered,Customer_83,customer83@email.com,Pune,2023-09-04,February,7,Saturday
+504,251,7,2,USB Cable,Accessories,200,42,400,83,2024-02-17,Delivered,Customer_83,customer83@email.com,Pune,2023-09-04,February,7,Saturday
+505,251,9,2,External Drive,Storage,4000,32,8000,83,2024-02-17,Delivered,Customer_83,customer83@email.com,Pune,2023-09-04,February,7,Saturday
+506,252,4,2,Monitor,Electronics,15000,81,30000,16,2024-01-12,Delivered,Customer_16,customer16@email.com,Delhi,2023-02-15,January,2,Friday
+507,252,1,3,Laptop,Electronics,50000,37,150000,16,2024-01-12,Delivered,Customer_16,customer16@email.com,Delhi,2023-02-15,January,2,Friday
+508,252,2,1,Mouse,Accessories,500,16,500,16,2024-01-12,Delivered,Customer_16,customer16@email.com,Delhi,2023-02-15,January,2,Friday
+509,253,1,3,Laptop,Electronics,50000,37,150000,69,2024-02-28,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,9,Wednesday
+510,253,2,1,Mouse,Accessories,500,16,500,69,2024-02-28,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,9,Wednesday
+511,253,7,1,USB Cable,Accessories,200,42,200,69,2024-02-28,Delivered,Customer_69,customer69@email.com,Chennai,2023-07-24,February,9,Wednesday
+512,254,6,4,Webcam,Accessories,3000,43,12000,99,2024-02-20,Delivered,Customer_99,customer99@email.com,Delhi,2023-10-22,February,8,Tuesday
+513,255,3,4,Keyboard,Accessories,1500,82,6000,12,2024-01-22,Delivered,Customer_12,customer12@email.com,Bangalore,2023-02-03,January,4,Monday
+514,256,10,1,Printer,Office,8000,71,8000,25,2024-02-24,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,February,8,Saturday
+515,256,9,2,External Drive,Storage,4000,32,8000,25,2024-02-24,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,February,8,Saturday
+516,256,9,2,External Drive,Storage,4000,32,8000,25,2024-02-24,Delivered,Customer_25,customer25@email.com,Mumbai,2023-03-14,February,8,Saturday
+517,257,7,1,USB Cable,Accessories,200,42,200,52,2024-01-22,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,January,4,Monday
+518,257,2,3,Mouse,Accessories,500,16,1500,52,2024-01-22,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,January,4,Monday
+519,257,10,2,Printer,Office,8000,71,16000,52,2024-01-22,Delivered,Customer_52,customer52@email.com,Chennai,2023-06-03,January,4,Monday
+520,258,7,1,USB Cable,Accessories,200,42,200,85,2024-02-15,Delivered,Customer_85,customer85@email.com,Mumbai,2023-09-10,February,7,Thursday
+521,259,7,4,USB Cable,Accessories,200,42,800,100,2024-01-30,Delivered,Customer_100,customer100@email.com,Mumbai,2023-10-25,January,5,Tuesday
+522,260,3,4,Keyboard,Accessories,1500,82,6000,53,2024-02-07,Cancelled,Customer_53,customer53@email.com,Chennai,2023-06-06,February,6,Wednesday
+523,260,10,2,Printer,Office,8000,71,16000,53,2024-02-07,Cancelled,Customer_53,customer53@email.com,Chennai,2023-06-06,February,6,Wednesday
+524,261,7,1,USB Cable,Accessories,200,42,200,23,2024-02-07,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,6,Wednesday
+525,261,4,4,Monitor,Electronics,15000,81,60000,23,2024-02-07,Delivered,Customer_23,customer23@email.com,Chennai,2023-03-08,February,6,Wednesday
+526,262,1,4,Laptop,Electronics,50000,37,200000,16,2024-02-14,Shipped,Customer_16,customer16@email.com,Delhi,2023-02-15,February,7,Wednesday
+527,263,9,4,External Drive,Storage,4000,32,16000,57,2024-02-20,Delivered,Customer_57,customer57@email.com,Chennai,2023-06-18,February,8,Tuesday
+528,263,1,3,Laptop,Electronics,50000,37,150000,57,2024-02-20,Delivered,Customer_57,customer57@email.com,Chennai,2023-06-18,February,8,Tuesday
+529,263,6,1,Webcam,Accessories,3000,43,3000,57,2024-02-20,Delivered,Customer_57,customer57@email.com,Chennai,2023-06-18,February,8,Tuesday
+530,264,4,1,Monitor,Electronics,15000,81,15000,39,2024-02-23,Delivered,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,8,Friday
+531,264,1,4,Laptop,Electronics,50000,37,200000,39,2024-02-23,Delivered,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,8,Friday
+532,264,2,4,Mouse,Accessories,500,16,2000,39,2024-02-23,Delivered,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,8,Friday
+533,265,5,4,Headphones,Accessories,2000,21,8000,53,2024-01-08,Shipped,Customer_53,customer53@email.com,Chennai,2023-06-06,January,2,Monday
+534,266,8,2,Router,Networking,3500,57,7000,42,2024-01-27,Delivered,Customer_42,customer42@email.com,Mumbai,2023-05-04,January,4,Saturday
+535,266,3,2,Keyboard,Accessories,1500,82,3000,42,2024-01-27,Delivered,Customer_42,customer42@email.com,Mumbai,2023-05-04,January,4,Saturday
+536,267,10,3,Printer,Office,8000,71,24000,58,2024-01-27,Delivered,Customer_58,customer58@email.com,Delhi,2023-06-21,January,4,Saturday
+537,268,6,2,Webcam,Accessories,3000,43,6000,39,2024-02-03,Delivered,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,5,Saturday
+538,268,7,4,USB Cable,Accessories,200,42,800,39,2024-02-03,Delivered,Customer_39,customer39@email.com,Mumbai,2023-04-25,February,5,Saturday
+539,269,6,1,Webcam,Accessories,3000,43,3000,14,2024-01-21,Delivered,Customer_14,customer14@email.com,Delhi,2023-02-09,January,3,Sunday
+540,269,3,2,Keyboard,Accessories,1500,82,3000,14,2024-01-21,Delivered,Customer_14,customer14@email.com,Delhi,2023-02-09,January,3,Sunday
+541,270,4,4,Monitor,Electronics,15000,81,60000,95,2024-01-30,Processing,Customer_95,customer95@email.com,Mumbai,2023-10-10,January,5,Tuesday
+542,270,6,4,Webcam,Accessories,3000,43,12000,95,2024-01-30,Processing,Customer_95,customer95@email.com,Mumbai,2023-10-10,January,5,Tuesday
+543,270,10,4,Printer,Office,8000,71,32000,95,2024-01-30,Processing,Customer_95,customer95@email.com,Mumbai,2023-10-10,January,5,Tuesday
+544,271,9,3,External Drive,Storage,4000,32,12000,5,2024-02-02,Shipped,Customer_5,customer5@email.com,Pune,2023-01-13,February,5,Friday
+545,272,9,3,External Drive,Storage,4000,32,12000,35,2024-01-28,Cancelled,Customer_35,customer35@email.com,Bangalore,2023-04-13,January,4,Sunday
+546,272,1,4,Laptop,Electronics,50000,37,200000,35,2024-01-28,Cancelled,Customer_35,customer35@email.com,Bangalore,2023-04-13,January,4,Sunday
+547,273,7,4,USB Cable,Accessories,200,42,800,87,2024-02-16,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,February,7,Friday
+548,273,3,4,Keyboard,Accessories,1500,82,6000,87,2024-02-16,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,February,7,Friday
+549,273,6,1,Webcam,Accessories,3000,43,3000,87,2024-02-16,Delivered,Customer_87,customer87@email.com,Mumbai,2023-09-16,February,7,Friday
+550,274,9,2,External Drive,Storage,4000,32,8000,93,2024-02-02,Shipped,Customer_93,customer93@email.com,Bangalore,2023-10-04,February,5,Friday
+551,275,4,2,Monitor,Electronics,15000,81,30000,75,2024-01-05,Processing,Customer_75,customer75@email.com,Pune,2023-08-11,January,1,Friday
+552,276,2,4,Mouse,Accessories,500,16,2000,18,2024-02-29,Delivered,Customer_18,customer18@email.com,Pune,2023-02-21,February,9,Thursday
+553,276,7,4,USB Cable,Accessories,200,42,800,18,2024-02-29,Delivered,Customer_18,customer18@email.com,Pune,2023-02-21,February,9,Thursday
+554,277,5,4,Headphones,Accessories,2000,21,8000,76,2024-02-17,Delivered,Customer_76,customer76@email.com,Delhi,2023-08-14,February,7,Saturday
+555,278,4,2,Monitor,Electronics,15000,81,30000,9,2024-01-19,Shipped,Customer_9,customer9@email.com,Bangalore,2023-01-25,January,3,Friday
+556,278,4,1,Monitor,Electronics,15000,81,15000,9,2024-01-19,Shipped,Customer_9,customer9@email.com,Bangalore,2023-01-25,January,3,Friday
+557,279,2,1,Mouse,Accessories,500,16,500,74,2024-01-04,Delivered,Customer_74,customer74@email.com,Delhi,2023-08-08,January,1,Thursday
+558,279,2,1,Mouse,Accessories,500,16,500,74,2024-01-04,Delivered,Customer_74,customer74@email.com,Delhi,2023-08-08,January,1,Thursday
+559,279,5,2,Headphones,Accessories,2000,21,4000,74,2024-01-04,Delivered,Customer_74,customer74@email.com,Delhi,2023-08-08,January,1,Thursday
+560,280,9,1,External Drive,Storage,4000,32,4000,58,2024-02-04,Shipped,Customer_58,customer58@email.com,Delhi,2023-06-21,February,5,Sunday
+561,280,1,3,Laptop,Electronics,50000,37,150000,58,2024-02-04,Shipped,Customer_58,customer58@email.com,Delhi,2023-06-21,February,5,Sunday
+562,280,3,4,Keyboard,Accessories,1500,82,6000,58,2024-02-04,Shipped,Customer_58,customer58@email.com,Delhi,2023-06-21,February,5,Sunday
+563,281,7,2,USB Cable,Accessories,200,42,400,17,2024-02-18,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,February,7,Sunday
+564,281,4,2,Monitor,Electronics,15000,81,30000,17,2024-02-18,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,February,7,Sunday
+565,282,6,3,Webcam,Accessories,3000,43,9000,7,2024-01-17,Shipped,Customer_7,customer7@email.com,Bangalore,2023-01-19,January,3,Wednesday
+566,282,6,3,Webcam,Accessories,3000,43,9000,7,2024-01-17,Shipped,Customer_7,customer7@email.com,Bangalore,2023-01-19,January,3,Wednesday
+567,282,6,4,Webcam,Accessories,3000,43,12000,7,2024-01-17,Shipped,Customer_7,customer7@email.com,Bangalore,2023-01-19,January,3,Wednesday
+568,283,4,2,Monitor,Electronics,15000,81,30000,46,2024-02-13,Delivered,Customer_46,customer46@email.com,Mumbai,2023-05-16,February,7,Tuesday
+569,284,1,2,Laptop,Electronics,50000,37,100000,13,2024-01-28,Delivered,Customer_13,customer13@email.com,Pune,2023-02-06,January,4,Sunday
+570,284,6,2,Webcam,Accessories,3000,43,6000,13,2024-01-28,Delivered,Customer_13,customer13@email.com,Pune,2023-02-06,January,4,Sunday
+571,284,3,2,Keyboard,Accessories,1500,82,3000,13,2024-01-28,Delivered,Customer_13,customer13@email.com,Pune,2023-02-06,January,4,Sunday
+572,285,6,3,Webcam,Accessories,3000,43,9000,40,2024-01-30,Delivered,Customer_40,customer40@email.com,Delhi,2023-04-28,January,5,Tuesday
+573,285,7,4,USB Cable,Accessories,200,42,800,40,2024-01-30,Delivered,Customer_40,customer40@email.com,Delhi,2023-04-28,January,5,Tuesday
+574,286,9,3,External Drive,Storage,4000,32,12000,42,2024-01-29,Shipped,Customer_42,customer42@email.com,Mumbai,2023-05-04,January,5,Monday
+575,286,5,3,Headphones,Accessories,2000,21,6000,42,2024-01-29,Shipped,Customer_42,customer42@email.com,Mumbai,2023-05-04,January,5,Monday
+576,287,2,3,Mouse,Accessories,500,16,1500,9,2024-02-15,Delivered,Customer_9,customer9@email.com,Bangalore,2023-01-25,February,7,Thursday
+577,287,2,2,Mouse,Accessories,500,16,1000,9,2024-02-15,Delivered,Customer_9,customer9@email.com,Bangalore,2023-01-25,February,7,Thursday
+578,288,10,1,Printer,Office,8000,71,8000,50,2024-02-22,Delivered,Customer_50,customer50@email.com,Chennai,2023-05-28,February,8,Thursday
+579,288,2,1,Mouse,Accessories,500,16,500,50,2024-02-22,Delivered,Customer_50,customer50@email.com,Chennai,2023-05-28,February,8,Thursday
+580,289,6,1,Webcam,Accessories,3000,43,3000,27,2024-01-06,Delivered,Customer_27,customer27@email.com,Bangalore,2023-03-20,January,1,Saturday
+581,290,1,2,Laptop,Electronics,50000,37,100000,66,2024-02-04,Processing,Customer_66,customer66@email.com,Chennai,2023-07-15,February,5,Sunday
+582,290,6,2,Webcam,Accessories,3000,43,6000,66,2024-02-04,Processing,Customer_66,customer66@email.com,Chennai,2023-07-15,February,5,Sunday
+583,290,4,3,Monitor,Electronics,15000,81,45000,66,2024-02-04,Processing,Customer_66,customer66@email.com,Chennai,2023-07-15,February,5,Sunday
+584,291,9,2,External Drive,Storage,4000,32,8000,5,2024-02-29,Delivered,Customer_5,customer5@email.com,Pune,2023-01-13,February,9,Thursday
+585,291,9,1,External Drive,Storage,4000,32,4000,5,2024-02-29,Delivered,Customer_5,customer5@email.com,Pune,2023-01-13,February,9,Thursday
+586,291,5,2,Headphones,Accessories,2000,21,4000,5,2024-02-29,Delivered,Customer_5,customer5@email.com,Pune,2023-01-13,February,9,Thursday
+587,292,2,4,Mouse,Accessories,500,16,2000,29,2024-02-10,Shipped,Customer_29,customer29@email.com,Chennai,2023-03-26,February,6,Saturday
+588,293,4,1,Monitor,Electronics,15000,81,15000,37,2024-02-06,Delivered,Customer_37,customer37@email.com,Bangalore,2023-04-19,February,6,Tuesday
+589,294,4,2,Monitor,Electronics,15000,81,30000,38,2024-01-24,Delivered,Customer_38,customer38@email.com,Pune,2023-04-22,January,4,Wednesday
+590,295,6,4,Webcam,Accessories,3000,43,12000,83,2024-01-29,Delivered,Customer_83,customer83@email.com,Pune,2023-09-04,January,5,Monday
+591,296,2,4,Mouse,Accessories,500,16,2000,8,2024-02-18,Delivered,Customer_8,customer8@email.com,Bangalore,2023-01-22,February,7,Sunday
+592,297,3,3,Keyboard,Accessories,1500,82,4500,65,2024-02-15,Shipped,Customer_65,customer65@email.com,Delhi,2023-07-12,February,7,Thursday
+593,297,3,1,Keyboard,Accessories,1500,82,1500,65,2024-02-15,Shipped,Customer_65,customer65@email.com,Delhi,2023-07-12,February,7,Thursday
+594,297,3,2,Keyboard,Accessories,1500,82,3000,65,2024-02-15,Shipped,Customer_65,customer65@email.com,Delhi,2023-07-12,February,7,Thursday
+595,298,9,2,External Drive,Storage,4000,32,8000,86,2024-02-22,Delivered,Customer_86,customer86@email.com,Mumbai,2023-09-13,February,8,Thursday
+596,298,2,1,Mouse,Accessories,500,16,500,86,2024-02-22,Delivered,Customer_86,customer86@email.com,Mumbai,2023-09-13,February,8,Thursday
+597,299,8,3,Router,Networking,3500,57,10500,17,2024-01-31,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,January,5,Wednesday
+598,299,9,3,External Drive,Storage,4000,32,12000,17,2024-01-31,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,January,5,Wednesday
+599,299,3,1,Keyboard,Accessories,1500,82,1500,17,2024-01-31,Delivered,Customer_17,customer17@email.com,Chennai,2023-02-18,January,5,Wednesday
+600,300,5,1,Headphones,Accessories,2000,21,2000,71,2024-02-04,Processing,Customer_71,customer71@email.com,Mumbai,2023-07-30,February,5,Sunday
+601,300,3,3,Keyboard,Accessories,1500,82,4500,71,2024-02-04,Processing,Customer_71,customer71@email.com,Mumbai,2023-07-30,February,5,Sunday
+602,300,1,4,Laptop,Electronics,50000,37,200000,71,2024-02-04,Processing,Customer_71,customer71@email.com,Mumbai,2023-07-30,February,5,Sunday
