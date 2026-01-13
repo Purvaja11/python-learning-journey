@@ -1,7 +1,7 @@
 """Retail Analytics Dashboard - Day 10 Task 3 Project
 Advanced Pandas: Merging, time series, pivot tables, real analytics
 
-This mimcs real data analyst work!
+This mimics real data analyst work!
 """
 
 import pandas as pd
@@ -136,9 +136,9 @@ class RetailAnalytics:
                                           (customer_stats['Total_Spent'] <= 10000)])
         low_value = len(customer_stats[customer_stats['Total_Spent'] < 5000])
 
-        print(f"High Value (>₹1L):      {high_value} customers")
-        print(f"Medium Value (₹50K-1L):  {medium_value} customers")
-        print(f"Low Value (<₹50K):        {low_value} customers")
+        print(f"High Value (>₹10K):      {high_value} customers")
+        print(f"Medium Value (₹5K-10K):  {medium_value} customers")
+        print(f"Low Value (<₹5K):        {low_value} customers")
 
     def time_series_analysis(self):
         """Analyze trends over time"""
