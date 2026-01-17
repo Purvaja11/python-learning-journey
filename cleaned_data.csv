@@ -1,0 +1,5 @@
+Employee_ID,Name,Age,Department,Salary,Years_Experience,City,Join_Date
+E001,Alice Johnson,28.0,Sales,55000.0,3.0,Mumbai,2021-06-15
+E002,Bob Smith,35.0,Sales,62000.0,8.0,Delhi,2019-03-20
+E005,Frank@Miller,31.0,Marketing,54000.0,4.0,Chennai,2020-08-22
+E006,Grace Lee,31.0,Hr,68000.0,4.0,Mumbai,2018-12-01
