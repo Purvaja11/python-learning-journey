@@ -31,7 +31,8 @@ Learning Python through hands-on projects - Daily commits
 The real data analytics journey begins!
 
 Week 2: Data Analytics Core
-├── Days 8-9: NumPy ✅✅
-├── Day 10: Advanced Pandas (Merging, Time Series) ✅
-├── Day 11: Data Cleaning Mastery ✅ ← YOU JUST FINISHED!
-└── Days 12-14: More Pandas + Visualization
+├── Days 8-9: NumPy & Pandas Basics ✅✅
+├── Day 10: Advanced Pandas ✅
+├── Day 11: Data Cleaning ✅
+├── Day 12: Data Visualization ✅ ← YOU ARE HERE!
+└── Days 13-14: Real Projects & OOP
