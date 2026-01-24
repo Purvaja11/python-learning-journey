@@ -6,8 +6,8 @@ Business Objective:
 Analyze customer behavior and sales patterns to provide actionable insights
 for improving revenue, customer satisfaction, and operational efficiency.
 
-Author: [Your Name]
-Date: January 2025
+Author: Purvaja Kalbande
+Date: January 2026
 Dataset: E-commerce Customer & Orders Data
 """
 
