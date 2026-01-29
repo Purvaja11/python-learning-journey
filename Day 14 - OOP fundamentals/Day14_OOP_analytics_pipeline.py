@@ -401,15 +401,4 @@ if __name__ == "__main__":
    ✅ Specialized methods in derived classes
    ✅ Don't repeat yourself (DRY principle)
 
-💼 WHY THIS MATTERS FOR INTERVIEWS:
-- Shows professional code organization
-- Demonstrates OOP understanding
-- Scalable and maintainable code
-- Easy to extend with new features
-
-🚀 REAL-WORLD APPLICATIONS:
-- Data pipelines in production
-- Reusable analytics tools
-- Team collaboration (clear structure)
-- Enterprise software development
     """)
