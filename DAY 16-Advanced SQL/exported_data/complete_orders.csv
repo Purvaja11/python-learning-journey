@@ -1,0 +1,1501 @@
+order_id,order_date,customer_name,city,customer_type,product_name,category,quantity,total_amount,status
+1,10-11-2025,Customer_3,Hyderabad,Premium,Laptop,Electronics,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Smartphone,Sports,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Headphones,Books,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,T-Shirt,Clothing,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Jeans,Books,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Blender,Clothing,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Microwave,Electronics,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Novel,Clothing,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Textbook,Sports,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Football,Books,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Yoga Mat,Electronics,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Watch,Books,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Sunglasses,Home & Kitchen,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Backpack,Sports,4,16647.52,Cancelled
+1,10-11-2025,Customer_3,Hyderabad,Premium,Shoes,Electronics,4,16647.52,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Laptop,Electronics,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Smartphone,Sports,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Headphones,Books,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,T-Shirt,Clothing,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Jeans,Books,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Blender,Clothing,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Microwave,Electronics,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Novel,Clothing,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Textbook,Sports,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Football,Books,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Yoga Mat,Electronics,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Watch,Books,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Sunglasses,Home & Kitchen,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Backpack,Sports,1,797.82,Cancelled
+2,28-01-2026,Customer_2,Hyderabad,VIP,Shoes,Electronics,1,797.82,Cancelled
+3,22-01-2026,Customer_16,Delhi,Premium,Laptop,Electronics,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Smartphone,Sports,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Headphones,Books,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,T-Shirt,Clothing,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Jeans,Books,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Blender,Clothing,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Microwave,Electronics,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Novel,Clothing,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Textbook,Sports,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Football,Books,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Yoga Mat,Electronics,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Watch,Books,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Sunglasses,Home & Kitchen,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Backpack,Sports,1,1282.64,Pending
+3,22-01-2026,Customer_16,Delhi,Premium,Shoes,Electronics,1,1282.64,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Laptop,Electronics,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Smartphone,Sports,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Headphones,Books,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,T-Shirt,Clothing,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Jeans,Books,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Blender,Clothing,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Microwave,Electronics,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Novel,Clothing,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Textbook,Sports,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Football,Books,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Yoga Mat,Electronics,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Watch,Books,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Sunglasses,Home & Kitchen,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Backpack,Sports,5,3989.1,Pending
+4,05-12-2025,Customer_31,Chennai,Regular,Shoes,Electronics,5,3989.1,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Laptop,Electronics,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Smartphone,Sports,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Headphones,Books,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,T-Shirt,Clothing,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Jeans,Books,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Blender,Clothing,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Microwave,Electronics,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Novel,Clothing,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Textbook,Sports,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Football,Books,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Yoga Mat,Electronics,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Watch,Books,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Sunglasses,Home & Kitchen,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Backpack,Sports,5,11853.35,Pending
+5,31-01-2026,Customer_42,Hyderabad,VIP,Shoes,Electronics,5,11853.35,Pending
+6,28-12-2025,Customer_38,Pune,VIP,Laptop,Electronics,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Smartphone,Sports,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Headphones,Books,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,T-Shirt,Clothing,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Jeans,Books,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Blender,Clothing,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Microwave,Electronics,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Novel,Clothing,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Textbook,Sports,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Football,Books,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Yoga Mat,Electronics,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Watch,Books,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Sunglasses,Home & Kitchen,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Backpack,Sports,4,10687.08,Completed
+6,28-12-2025,Customer_38,Pune,VIP,Shoes,Electronics,4,10687.08,Completed
+7,06-02-2026,Customer_48,Mumbai,Premium,Laptop,Electronics,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Smartphone,Sports,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Headphones,Books,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,T-Shirt,Clothing,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Jeans,Books,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Blender,Clothing,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Microwave,Electronics,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Novel,Clothing,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Textbook,Sports,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Football,Books,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Yoga Mat,Electronics,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Watch,Books,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Sunglasses,Home & Kitchen,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Backpack,Sports,2,5641.92,Cancelled
+7,06-02-2026,Customer_48,Mumbai,Premium,Shoes,Electronics,2,5641.92,Cancelled
+8,29-11-2025,Customer_29,Delhi,Regular,Laptop,Electronics,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Smartphone,Sports,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Headphones,Books,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,T-Shirt,Clothing,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Jeans,Books,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Blender,Clothing,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Microwave,Electronics,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Novel,Clothing,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Textbook,Sports,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Football,Books,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Yoga Mat,Electronics,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Watch,Books,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Sunglasses,Home & Kitchen,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Backpack,Sports,4,2328.28,Pending
+8,29-11-2025,Customer_29,Delhi,Regular,Shoes,Electronics,4,2328.28,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Laptop,Electronics,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Smartphone,Sports,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Headphones,Books,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,T-Shirt,Clothing,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Jeans,Books,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Blender,Clothing,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Microwave,Electronics,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Novel,Clothing,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Textbook,Sports,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Football,Books,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Yoga Mat,Electronics,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Watch,Books,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Sunglasses,Home & Kitchen,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Backpack,Sports,2,5343.54,Pending
+9,07-12-2025,Customer_30,Pune,Premium,Shoes,Electronics,2,5343.54,Pending
+10,11-11-2025,Customer_32,Chennai,Premium,Laptop,Electronics,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Smartphone,Sports,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Headphones,Books,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,T-Shirt,Clothing,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Jeans,Books,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Blender,Clothing,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Microwave,Electronics,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Novel,Clothing,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Textbook,Sports,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Football,Books,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Yoga Mat,Electronics,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Watch,Books,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Sunglasses,Home & Kitchen,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Backpack,Sports,3,12485.64,Cancelled
+10,11-11-2025,Customer_32,Chennai,Premium,Shoes,Electronics,3,12485.64,Cancelled
+11,18-12-2025,Customer_43,Delhi,Premium,Laptop,Electronics,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Smartphone,Sports,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Headphones,Books,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,T-Shirt,Clothing,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Jeans,Books,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Blender,Clothing,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Microwave,Electronics,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Novel,Clothing,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Textbook,Sports,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Football,Books,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Yoga Mat,Electronics,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Watch,Books,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Sunglasses,Home & Kitchen,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Backpack,Sports,4,5327.84,Pending
+11,18-12-2025,Customer_43,Delhi,Premium,Shoes,Electronics,4,5327.84,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Laptop,Electronics,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Smartphone,Sports,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Headphones,Books,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,T-Shirt,Clothing,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Jeans,Books,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Blender,Clothing,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Microwave,Electronics,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Novel,Clothing,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Textbook,Sports,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Football,Books,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Yoga Mat,Electronics,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Watch,Books,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Sunglasses,Home & Kitchen,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Backpack,Sports,5,14104.8,Pending
+12,18-12-2025,Customer_20,Bangalore,Premium,Shoes,Electronics,5,14104.8,Pending
+13,03-12-2025,Customer_46,Mumbai,Regular,Laptop,Electronics,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Smartphone,Sports,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Headphones,Books,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,T-Shirt,Clothing,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Jeans,Books,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Blender,Clothing,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Microwave,Electronics,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Novel,Clothing,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Textbook,Sports,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Football,Books,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Yoga Mat,Electronics,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Watch,Books,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Sunglasses,Home & Kitchen,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Backpack,Sports,3,14196.18,Completed
+13,03-12-2025,Customer_46,Mumbai,Regular,Shoes,Electronics,3,14196.18,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Laptop,Electronics,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Smartphone,Sports,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Headphones,Books,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,T-Shirt,Clothing,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Jeans,Books,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Blender,Clothing,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Microwave,Electronics,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Novel,Clothing,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Textbook,Sports,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Football,Books,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Yoga Mat,Electronics,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Watch,Books,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Sunglasses,Home & Kitchen,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Backpack,Sports,4,15507.92,Completed
+14,16-01-2026,Customer_9,Delhi,VIP,Shoes,Electronics,4,15507.92,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Laptop,Electronics,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Smartphone,Sports,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Headphones,Books,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,T-Shirt,Clothing,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Jeans,Books,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Blender,Clothing,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Microwave,Electronics,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Novel,Clothing,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Textbook,Sports,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Football,Books,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Yoga Mat,Electronics,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Watch,Books,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Sunglasses,Home & Kitchen,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Backpack,Sports,1,582.07,Completed
+15,21-11-2025,Customer_16,Delhi,Premium,Shoes,Electronics,1,582.07,Completed
+16,17-11-2025,Customer_32,Chennai,Premium,Laptop,Electronics,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Smartphone,Sports,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Headphones,Books,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,T-Shirt,Clothing,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Jeans,Books,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Blender,Clothing,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Microwave,Electronics,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Novel,Clothing,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Textbook,Sports,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Football,Books,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Yoga Mat,Electronics,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Watch,Books,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Sunglasses,Home & Kitchen,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Backpack,Sports,5,19937.85,Pending
+16,17-11-2025,Customer_32,Chennai,Premium,Shoes,Electronics,5,19937.85,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Laptop,Electronics,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Smartphone,Sports,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Headphones,Books,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,T-Shirt,Clothing,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Jeans,Books,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Blender,Clothing,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Microwave,Electronics,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Novel,Clothing,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Textbook,Sports,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Football,Books,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Yoga Mat,Electronics,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Watch,Books,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Sunglasses,Home & Kitchen,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Backpack,Sports,1,1331.96,Pending
+17,30-12-2025,Customer_26,Chennai,VIP,Shoes,Electronics,1,1331.96,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Laptop,Electronics,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Smartphone,Sports,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Headphones,Books,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,T-Shirt,Clothing,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Jeans,Books,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Blender,Clothing,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Microwave,Electronics,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Novel,Clothing,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Textbook,Sports,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Football,Books,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Yoga Mat,Electronics,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Watch,Books,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Sunglasses,Home & Kitchen,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Backpack,Sports,4,18928.24,Pending
+18,21-11-2025,Customer_47,Pune,Premium,Shoes,Electronics,4,18928.24,Pending
+19,14-12-2025,Customer_13,Hyderabad,Regular,Laptop,Electronics,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Smartphone,Sports,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Headphones,Books,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,T-Shirt,Clothing,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Jeans,Books,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Blender,Clothing,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Microwave,Electronics,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Novel,Clothing,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Textbook,Sports,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Football,Books,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Yoga Mat,Electronics,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Watch,Books,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Sunglasses,Home & Kitchen,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Backpack,Sports,3,7112.01,Completed
+19,14-12-2025,Customer_13,Hyderabad,Regular,Shoes,Electronics,3,7112.01,Completed
+20,30-12-2025,Customer_12,Delhi,Regular,Laptop,Electronics,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Smartphone,Sports,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Headphones,Books,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,T-Shirt,Clothing,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Jeans,Books,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Blender,Clothing,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Microwave,Electronics,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Novel,Clothing,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Textbook,Sports,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Football,Books,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Yoga Mat,Electronics,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Watch,Books,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Sunglasses,Home & Kitchen,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Backpack,Sports,2,1164.14,Pending
+20,30-12-2025,Customer_12,Delhi,Regular,Shoes,Electronics,2,1164.14,Pending
+21,06-12-2025,Customer_46,Mumbai,Regular,Laptop,Electronics,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Smartphone,Sports,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Headphones,Books,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,T-Shirt,Clothing,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Jeans,Books,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Blender,Clothing,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Microwave,Electronics,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Novel,Clothing,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Textbook,Sports,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Football,Books,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Yoga Mat,Electronics,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Watch,Books,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Sunglasses,Home & Kitchen,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Backpack,Sports,3,11630.94,Completed
+21,06-12-2025,Customer_46,Mumbai,Regular,Shoes,Electronics,3,11630.94,Completed
+22,15-11-2025,Customer_49,Delhi,VIP,Laptop,Electronics,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Smartphone,Sports,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Headphones,Books,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,T-Shirt,Clothing,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Jeans,Books,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Blender,Clothing,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Microwave,Electronics,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Novel,Clothing,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Textbook,Sports,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Football,Books,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Yoga Mat,Electronics,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Watch,Books,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Sunglasses,Home & Kitchen,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Backpack,Sports,1,3876.98,Pending
+22,15-11-2025,Customer_49,Delhi,VIP,Shoes,Electronics,1,3876.98,Pending
+23,26-01-2026,Customer_16,Delhi,Premium,Laptop,Electronics,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Smartphone,Sports,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Headphones,Books,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,T-Shirt,Clothing,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Jeans,Books,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Blender,Clothing,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Microwave,Electronics,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Novel,Clothing,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Textbook,Sports,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Football,Books,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Yoga Mat,Electronics,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Watch,Books,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Sunglasses,Home & Kitchen,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Backpack,Sports,3,3995.88,Completed
+23,26-01-2026,Customer_16,Delhi,Premium,Shoes,Electronics,3,3995.88,Completed
+24,09-01-2026,Customer_17,Pune,VIP,Laptop,Electronics,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Smartphone,Sports,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Headphones,Books,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,T-Shirt,Clothing,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Jeans,Books,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Blender,Clothing,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Microwave,Electronics,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Novel,Clothing,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Textbook,Sports,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Football,Books,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Yoga Mat,Electronics,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Watch,Books,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Sunglasses,Home & Kitchen,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Backpack,Sports,3,8015.31,Cancelled
+24,09-01-2026,Customer_17,Pune,VIP,Shoes,Electronics,3,8015.31,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Laptop,Electronics,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Smartphone,Sports,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Headphones,Books,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,T-Shirt,Clothing,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Jeans,Books,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Blender,Clothing,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Microwave,Electronics,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Novel,Clothing,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Textbook,Sports,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Football,Books,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Yoga Mat,Electronics,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Watch,Books,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Sunglasses,Home & Kitchen,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Backpack,Sports,1,2820.96,Cancelled
+25,18-01-2026,Customer_14,Mumbai,Premium,Shoes,Electronics,1,2820.96,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Laptop,Electronics,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Smartphone,Sports,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Headphones,Books,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,T-Shirt,Clothing,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Jeans,Books,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Blender,Clothing,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Microwave,Electronics,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Novel,Clothing,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Textbook,Sports,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Football,Books,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Yoga Mat,Electronics,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Watch,Books,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Sunglasses,Home & Kitchen,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Backpack,Sports,4,3051.28,Cancelled
+26,20-12-2025,Customer_35,Chennai,Premium,Shoes,Electronics,4,3051.28,Cancelled
+27,31-01-2026,Customer_9,Delhi,VIP,Laptop,Electronics,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Smartphone,Sports,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Headphones,Books,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,T-Shirt,Clothing,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Jeans,Books,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Blender,Clothing,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Microwave,Electronics,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Novel,Clothing,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Textbook,Sports,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Football,Books,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Yoga Mat,Electronics,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Watch,Books,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Sunglasses,Home & Kitchen,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Backpack,Sports,3,8462.88,Pending
+27,31-01-2026,Customer_9,Delhi,VIP,Shoes,Electronics,3,8462.88,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Laptop,Electronics,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Smartphone,Sports,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Headphones,Books,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,T-Shirt,Clothing,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Jeans,Books,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Blender,Clothing,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Microwave,Electronics,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Novel,Clothing,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Textbook,Sports,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Football,Books,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Yoga Mat,Electronics,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Watch,Books,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Sunglasses,Home & Kitchen,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Backpack,Sports,3,14196.18,Pending
+28,07-01-2026,Customer_1,Bangalore,Regular,Shoes,Electronics,3,14196.18,Pending
+29,16-12-2025,Customer_1,Bangalore,Regular,Laptop,Electronics,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Smartphone,Sports,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Headphones,Books,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,T-Shirt,Clothing,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Jeans,Books,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Blender,Clothing,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Microwave,Electronics,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Novel,Clothing,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Textbook,Sports,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Football,Books,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Yoga Mat,Electronics,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Watch,Books,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Sunglasses,Home & Kitchen,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Backpack,Sports,2,5343.54,Completed
+29,16-12-2025,Customer_1,Bangalore,Regular,Shoes,Electronics,2,5343.54,Completed
+30,18-12-2025,Customer_47,Pune,Premium,Laptop,Electronics,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Smartphone,Sports,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Headphones,Books,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,T-Shirt,Clothing,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Jeans,Books,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Blender,Clothing,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Microwave,Electronics,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Novel,Clothing,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Textbook,Sports,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Football,Books,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Yoga Mat,Electronics,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Watch,Books,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Sunglasses,Home & Kitchen,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Backpack,Sports,3,2288.46,Cancelled
+30,18-12-2025,Customer_47,Pune,Premium,Shoes,Electronics,3,2288.46,Cancelled
+31,18-01-2026,Customer_46,Mumbai,Regular,Laptop,Electronics,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Smartphone,Sports,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Headphones,Books,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,T-Shirt,Clothing,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Jeans,Books,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Blender,Clothing,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Microwave,Electronics,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Novel,Clothing,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Textbook,Sports,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Football,Books,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Yoga Mat,Electronics,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Watch,Books,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Sunglasses,Home & Kitchen,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Backpack,Sports,2,7975.14,Pending
+31,18-01-2026,Customer_46,Mumbai,Regular,Shoes,Electronics,2,7975.14,Pending
+32,06-12-2025,Customer_25,Pune,Regular,Laptop,Electronics,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Smartphone,Sports,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Headphones,Books,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,T-Shirt,Clothing,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Jeans,Books,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Blender,Clothing,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Microwave,Electronics,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Novel,Clothing,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Textbook,Sports,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Football,Books,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Yoga Mat,Electronics,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Watch,Books,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Sunglasses,Home & Kitchen,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Backpack,Sports,3,8015.31,Completed
+32,06-12-2025,Customer_25,Pune,Regular,Shoes,Electronics,3,8015.31,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Laptop,Electronics,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Smartphone,Sports,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Headphones,Books,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,T-Shirt,Clothing,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Jeans,Books,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Blender,Clothing,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Microwave,Electronics,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Novel,Clothing,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Textbook,Sports,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Football,Books,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Yoga Mat,Electronics,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Watch,Books,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Sunglasses,Home & Kitchen,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Backpack,Sports,4,16647.52,Completed
+33,03-01-2026,Customer_13,Hyderabad,Regular,Shoes,Electronics,4,16647.52,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Laptop,Electronics,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Smartphone,Sports,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Headphones,Books,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,T-Shirt,Clothing,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Jeans,Books,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Blender,Clothing,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Microwave,Electronics,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Novel,Clothing,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Textbook,Sports,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Football,Books,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Yoga Mat,Electronics,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Watch,Books,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Sunglasses,Home & Kitchen,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Backpack,Sports,2,1164.14,Completed
+34,22-11-2025,Customer_45,Pune,Premium,Shoes,Electronics,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Laptop,Electronics,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Smartphone,Sports,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Headphones,Books,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,T-Shirt,Clothing,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Jeans,Books,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Blender,Clothing,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Microwave,Electronics,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Novel,Clothing,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Textbook,Sports,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Football,Books,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Yoga Mat,Electronics,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Watch,Books,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Sunglasses,Home & Kitchen,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Backpack,Sports,2,1164.14,Completed
+35,29-11-2025,Customer_26,Chennai,VIP,Shoes,Electronics,2,1164.14,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Laptop,Electronics,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Smartphone,Sports,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Headphones,Books,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,T-Shirt,Clothing,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Jeans,Books,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Blender,Clothing,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Microwave,Electronics,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Novel,Clothing,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Textbook,Sports,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Football,Books,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Yoga Mat,Electronics,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Watch,Books,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Sunglasses,Home & Kitchen,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Backpack,Sports,5,20809.4,Completed
+36,24-11-2025,Customer_25,Pune,Regular,Shoes,Electronics,5,20809.4,Completed
+37,08-01-2026,Customer_9,Delhi,VIP,Laptop,Electronics,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Smartphone,Sports,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Headphones,Books,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,T-Shirt,Clothing,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Jeans,Books,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Blender,Clothing,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Microwave,Electronics,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Novel,Clothing,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Textbook,Sports,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Football,Books,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Yoga Mat,Electronics,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Watch,Books,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Sunglasses,Home & Kitchen,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Backpack,Sports,4,10687.08,Pending
+37,08-01-2026,Customer_9,Delhi,VIP,Shoes,Electronics,4,10687.08,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Laptop,Electronics,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Smartphone,Sports,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Headphones,Books,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,T-Shirt,Clothing,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Jeans,Books,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Blender,Clothing,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Microwave,Electronics,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Novel,Clothing,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Textbook,Sports,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Football,Books,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Yoga Mat,Electronics,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Watch,Books,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Sunglasses,Home & Kitchen,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Backpack,Sports,2,4741.34,Pending
+38,13-11-2025,Customer_23,Hyderabad,Premium,Shoes,Electronics,2,4741.34,Pending
+39,06-01-2026,Customer_15,Pune,Regular,Laptop,Electronics,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Smartphone,Sports,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Headphones,Books,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,T-Shirt,Clothing,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Jeans,Books,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Blender,Clothing,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Microwave,Electronics,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Novel,Clothing,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Textbook,Sports,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Football,Books,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Yoga Mat,Electronics,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Watch,Books,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Sunglasses,Home & Kitchen,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Backpack,Sports,3,8462.88,Cancelled
+39,06-01-2026,Customer_15,Pune,Regular,Shoes,Electronics,3,8462.88,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Laptop,Electronics,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Smartphone,Sports,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Headphones,Books,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,T-Shirt,Clothing,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Jeans,Books,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Blender,Clothing,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Microwave,Electronics,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Novel,Clothing,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Textbook,Sports,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Football,Books,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Yoga Mat,Electronics,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Watch,Books,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Sunglasses,Home & Kitchen,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Backpack,Sports,4,5130.56,Cancelled
+40,30-01-2026,Customer_14,Mumbai,Premium,Shoes,Electronics,4,5130.56,Cancelled
+41,28-12-2025,Customer_39,Hyderabad,Regular,Laptop,Electronics,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Smartphone,Sports,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Headphones,Books,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,T-Shirt,Clothing,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Jeans,Books,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Blender,Clothing,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Microwave,Electronics,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Novel,Clothing,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Textbook,Sports,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Football,Books,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Yoga Mat,Electronics,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Watch,Books,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Sunglasses,Home & Kitchen,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Backpack,Sports,5,20809.4,Completed
+41,28-12-2025,Customer_39,Hyderabad,Regular,Shoes,Electronics,5,20809.4,Completed
+42,27-11-2025,Customer_24,Mumbai,Regular,Laptop,Electronics,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Smartphone,Sports,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Headphones,Books,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,T-Shirt,Clothing,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Jeans,Books,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Blender,Clothing,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Microwave,Electronics,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Novel,Clothing,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Textbook,Sports,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Football,Books,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Yoga Mat,Electronics,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Watch,Books,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Sunglasses,Home & Kitchen,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Backpack,Sports,4,3051.28,Cancelled
+42,27-11-2025,Customer_24,Mumbai,Regular,Shoes,Electronics,4,3051.28,Cancelled
+43,26-01-2026,Customer_20,Bangalore,Premium,Laptop,Electronics,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Smartphone,Sports,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Headphones,Books,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,T-Shirt,Clothing,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Jeans,Books,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Blender,Clothing,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Microwave,Electronics,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Novel,Clothing,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Textbook,Sports,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Football,Books,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Yoga Mat,Electronics,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Watch,Books,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Sunglasses,Home & Kitchen,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Backpack,Sports,1,797.82,Pending
+43,26-01-2026,Customer_20,Bangalore,Premium,Shoes,Electronics,1,797.82,Pending
+44,18-01-2026,Customer_42,Hyderabad,VIP,Laptop,Electronics,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Smartphone,Sports,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Headphones,Books,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,T-Shirt,Clothing,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Jeans,Books,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Blender,Clothing,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Microwave,Electronics,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Novel,Clothing,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Textbook,Sports,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Football,Books,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Yoga Mat,Electronics,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Watch,Books,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Sunglasses,Home & Kitchen,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Backpack,Sports,3,13077.78,Completed
+44,18-01-2026,Customer_42,Hyderabad,VIP,Shoes,Electronics,3,13077.78,Completed
+45,03-12-2025,Customer_24,Mumbai,Regular,Laptop,Electronics,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Smartphone,Sports,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Headphones,Books,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,T-Shirt,Clothing,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Jeans,Books,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Blender,Clothing,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Microwave,Electronics,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Novel,Clothing,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Textbook,Sports,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Football,Books,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Yoga Mat,Electronics,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Watch,Books,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Sunglasses,Home & Kitchen,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Backpack,Sports,4,19771.16,Cancelled
+45,03-12-2025,Customer_24,Mumbai,Regular,Shoes,Electronics,4,19771.16,Cancelled
+46,13-11-2025,Customer_26,Chennai,VIP,Laptop,Electronics,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Smartphone,Sports,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Headphones,Books,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,T-Shirt,Clothing,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Jeans,Books,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Blender,Clothing,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Microwave,Electronics,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Novel,Clothing,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Textbook,Sports,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Football,Books,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Yoga Mat,Electronics,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Watch,Books,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Sunglasses,Home & Kitchen,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Backpack,Sports,2,5343.54,Pending
+46,13-11-2025,Customer_26,Chennai,VIP,Shoes,Electronics,2,5343.54,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Laptop,Electronics,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Smartphone,Sports,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Headphones,Books,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,T-Shirt,Clothing,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Jeans,Books,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Blender,Clothing,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Microwave,Electronics,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Novel,Clothing,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Textbook,Sports,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Football,Books,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Yoga Mat,Electronics,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Watch,Books,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Sunglasses,Home & Kitchen,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Backpack,Sports,2,7753.96,Pending
+47,16-11-2025,Customer_30,Pune,Premium,Shoes,Electronics,2,7753.96,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Laptop,Electronics,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Smartphone,Sports,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Headphones,Books,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,T-Shirt,Clothing,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Jeans,Books,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Blender,Clothing,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Microwave,Electronics,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Novel,Clothing,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Textbook,Sports,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Football,Books,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Yoga Mat,Electronics,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Watch,Books,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Sunglasses,Home & Kitchen,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Backpack,Sports,4,3191.28,Pending
+48,15-01-2026,Customer_8,Delhi,Regular,Shoes,Electronics,4,3191.28,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Laptop,Electronics,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Smartphone,Sports,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Headphones,Books,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,T-Shirt,Clothing,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Jeans,Books,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Blender,Clothing,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Microwave,Electronics,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Novel,Clothing,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Textbook,Sports,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Football,Books,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Yoga Mat,Electronics,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Watch,Books,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Sunglasses,Home & Kitchen,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Backpack,Sports,5,2910.35,Pending
+49,16-01-2026,Customer_38,Pune,VIP,Shoes,Electronics,5,2910.35,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Laptop,Electronics,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Smartphone,Sports,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Headphones,Books,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,T-Shirt,Clothing,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Jeans,Books,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Blender,Clothing,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Microwave,Electronics,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Novel,Clothing,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Textbook,Sports,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Football,Books,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Yoga Mat,Electronics,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Watch,Books,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Sunglasses,Home & Kitchen,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Backpack,Sports,2,1595.64,Pending
+50,08-01-2026,Customer_33,Bangalore,Regular,Shoes,Electronics,2,1595.64,Pending
+51,23-12-2025,Customer_23,Hyderabad,Premium,Laptop,Electronics,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Smartphone,Sports,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Headphones,Books,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,T-Shirt,Clothing,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Jeans,Books,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Blender,Clothing,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Microwave,Electronics,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Novel,Clothing,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Textbook,Sports,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Football,Books,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Yoga Mat,Electronics,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Watch,Books,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Sunglasses,Home & Kitchen,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Backpack,Sports,3,3995.88,Completed
+51,23-12-2025,Customer_23,Hyderabad,Premium,Shoes,Electronics,3,3995.88,Completed
+52,28-12-2025,Customer_41,Chennai,Premium,Laptop,Electronics,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Smartphone,Sports,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Headphones,Books,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,T-Shirt,Clothing,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Jeans,Books,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Blender,Clothing,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Microwave,Electronics,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Novel,Clothing,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Textbook,Sports,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Football,Books,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Yoga Mat,Electronics,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Watch,Books,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Sunglasses,Home & Kitchen,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Backpack,Sports,4,5130.56,Cancelled
+52,28-12-2025,Customer_41,Chennai,Premium,Shoes,Electronics,4,5130.56,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Laptop,Electronics,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Smartphone,Sports,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Headphones,Books,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,T-Shirt,Clothing,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Jeans,Books,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Blender,Clothing,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Microwave,Electronics,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Novel,Clothing,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Textbook,Sports,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Football,Books,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Yoga Mat,Electronics,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Watch,Books,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Sunglasses,Home & Kitchen,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Backpack,Sports,2,1164.14,Cancelled
+53,03-01-2026,Customer_7,Mumbai,Regular,Shoes,Electronics,2,1164.14,Cancelled
+54,17-01-2026,Customer_8,Delhi,Regular,Laptop,Electronics,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Smartphone,Sports,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Headphones,Books,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,T-Shirt,Clothing,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Jeans,Books,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Blender,Clothing,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Microwave,Electronics,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Novel,Clothing,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Textbook,Sports,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Football,Books,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Yoga Mat,Electronics,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Watch,Books,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Sunglasses,Home & Kitchen,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Backpack,Sports,5,13358.85,Completed
+54,17-01-2026,Customer_8,Delhi,Regular,Shoes,Electronics,5,13358.85,Completed
+55,12-11-2025,Customer_19,Hyderabad,Regular,Laptop,Electronics,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Smartphone,Sports,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Headphones,Books,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,T-Shirt,Clothing,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Jeans,Books,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Blender,Clothing,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Microwave,Electronics,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Novel,Clothing,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Textbook,Sports,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Football,Books,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Yoga Mat,Electronics,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Watch,Books,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Sunglasses,Home & Kitchen,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Backpack,Sports,1,1331.96,Pending
+55,12-11-2025,Customer_19,Hyderabad,Regular,Shoes,Electronics,1,1331.96,Pending
+56,15-01-2026,Customer_16,Delhi,Premium,Laptop,Electronics,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Smartphone,Sports,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Headphones,Books,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,T-Shirt,Clothing,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Jeans,Books,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Blender,Clothing,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Microwave,Electronics,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Novel,Clothing,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Textbook,Sports,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Football,Books,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Yoga Mat,Electronics,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Watch,Books,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Sunglasses,Home & Kitchen,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Backpack,Sports,3,11962.71,Completed
+56,15-01-2026,Customer_16,Delhi,Premium,Shoes,Electronics,3,11962.71,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Laptop,Electronics,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Smartphone,Sports,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Headphones,Books,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,T-Shirt,Clothing,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Jeans,Books,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Blender,Clothing,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Microwave,Electronics,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Novel,Clothing,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Textbook,Sports,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Football,Books,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Yoga Mat,Electronics,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Watch,Books,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Sunglasses,Home & Kitchen,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Backpack,Sports,4,5130.56,Completed
+57,06-02-2026,Customer_13,Hyderabad,Regular,Shoes,Electronics,4,5130.56,Completed
+58,18-11-2025,Customer_28,Chennai,Premium,Laptop,Electronics,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Smartphone,Sports,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Headphones,Books,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,T-Shirt,Clothing,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Jeans,Books,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Blender,Clothing,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Microwave,Electronics,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Novel,Clothing,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Textbook,Sports,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Football,Books,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Yoga Mat,Electronics,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Watch,Books,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Sunglasses,Home & Kitchen,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Backpack,Sports,4,15950.28,Pending
+58,18-11-2025,Customer_28,Chennai,Premium,Shoes,Electronics,4,15950.28,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Laptop,Electronics,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Smartphone,Sports,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Headphones,Books,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,T-Shirt,Clothing,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Jeans,Books,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Blender,Clothing,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Microwave,Electronics,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Novel,Clothing,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Textbook,Sports,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Football,Books,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Yoga Mat,Electronics,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Watch,Books,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Sunglasses,Home & Kitchen,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Backpack,Sports,1,3876.98,Pending
+59,09-01-2026,Customer_8,Delhi,Regular,Shoes,Electronics,1,3876.98,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Laptop,Electronics,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Smartphone,Sports,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Headphones,Books,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,T-Shirt,Clothing,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Jeans,Books,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Blender,Clothing,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Microwave,Electronics,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Novel,Clothing,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Textbook,Sports,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Football,Books,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Yoga Mat,Electronics,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Watch,Books,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Sunglasses,Home & Kitchen,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Backpack,Sports,3,9869.97,Pending
+60,28-12-2025,Customer_35,Chennai,Premium,Shoes,Electronics,3,9869.97,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Laptop,Electronics,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Smartphone,Sports,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Headphones,Books,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,T-Shirt,Clothing,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Jeans,Books,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Blender,Clothing,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Microwave,Electronics,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Novel,Clothing,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Textbook,Sports,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Football,Books,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Yoga Mat,Electronics,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Watch,Books,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Sunglasses,Home & Kitchen,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Backpack,Sports,1,2370.67,Pending
+61,05-12-2025,Customer_18,Mumbai,Premium,Shoes,Electronics,1,2370.67,Pending
+62,08-12-2025,Customer_26,Chennai,VIP,Laptop,Electronics,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Smartphone,Sports,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Headphones,Books,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,T-Shirt,Clothing,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Jeans,Books,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Blender,Clothing,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Microwave,Electronics,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Novel,Clothing,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Textbook,Sports,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Football,Books,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Yoga Mat,Electronics,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Watch,Books,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Sunglasses,Home & Kitchen,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Backpack,Sports,3,1746.21,Completed
+62,08-12-2025,Customer_26,Chennai,VIP,Shoes,Electronics,3,1746.21,Completed
+63,17-11-2025,Customer_23,Hyderabad,Premium,Laptop,Electronics,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Smartphone,Sports,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Headphones,Books,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,T-Shirt,Clothing,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Jeans,Books,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Blender,Clothing,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Microwave,Electronics,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Novel,Clothing,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Textbook,Sports,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Football,Books,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Yoga Mat,Electronics,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Watch,Books,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Sunglasses,Home & Kitchen,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Backpack,Sports,4,3191.28,Cancelled
+63,17-11-2025,Customer_23,Hyderabad,Premium,Shoes,Electronics,4,3191.28,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Laptop,Electronics,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Smartphone,Sports,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Headphones,Books,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,T-Shirt,Clothing,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Jeans,Books,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Blender,Clothing,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Microwave,Electronics,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Novel,Clothing,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Textbook,Sports,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Football,Books,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Yoga Mat,Electronics,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Watch,Books,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Sunglasses,Home & Kitchen,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Backpack,Sports,1,3987.57,Cancelled
+64,10-01-2026,Customer_31,Chennai,Regular,Shoes,Electronics,1,3987.57,Cancelled
+65,19-12-2025,Customer_47,Pune,Premium,Laptop,Electronics,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Smartphone,Sports,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Headphones,Books,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,T-Shirt,Clothing,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Jeans,Books,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Blender,Clothing,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Microwave,Electronics,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Novel,Clothing,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Textbook,Sports,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Football,Books,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Yoga Mat,Electronics,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Watch,Books,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Sunglasses,Home & Kitchen,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Backpack,Sports,3,7112.01,Completed
+65,19-12-2025,Customer_47,Pune,Premium,Shoes,Electronics,3,7112.01,Completed
+66,27-12-2025,Customer_50,Mumbai,Regular,Laptop,Electronics,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Smartphone,Sports,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Headphones,Books,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,T-Shirt,Clothing,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Jeans,Books,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Blender,Clothing,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Microwave,Electronics,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Novel,Clothing,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Textbook,Sports,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Football,Books,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Yoga Mat,Electronics,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Watch,Books,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Sunglasses,Home & Kitchen,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Backpack,Sports,3,7112.01,Cancelled
+66,27-12-2025,Customer_50,Mumbai,Regular,Shoes,Electronics,3,7112.01,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Laptop,Electronics,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Smartphone,Sports,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Headphones,Books,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,T-Shirt,Clothing,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Jeans,Books,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Blender,Clothing,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Microwave,Electronics,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Novel,Clothing,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Textbook,Sports,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Football,Books,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Yoga Mat,Electronics,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Watch,Books,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Sunglasses,Home & Kitchen,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Backpack,Sports,1,762.82,Cancelled
+67,13-01-2026,Customer_38,Pune,VIP,Shoes,Electronics,1,762.82,Cancelled
+68,24-12-2025,Customer_45,Pune,Premium,Laptop,Electronics,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Smartphone,Sports,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Headphones,Books,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,T-Shirt,Clothing,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Jeans,Books,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Blender,Clothing,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Microwave,Electronics,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Novel,Clothing,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Textbook,Sports,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Football,Books,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Yoga Mat,Electronics,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Watch,Books,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Sunglasses,Home & Kitchen,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Backpack,Sports,2,1595.64,Completed
+68,24-12-2025,Customer_45,Pune,Premium,Shoes,Electronics,2,1595.64,Completed
+69,19-01-2026,Customer_25,Pune,Regular,Laptop,Electronics,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Smartphone,Sports,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Headphones,Books,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,T-Shirt,Clothing,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Jeans,Books,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Blender,Clothing,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Microwave,Electronics,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Novel,Clothing,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Textbook,Sports,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Football,Books,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Yoga Mat,Electronics,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Watch,Books,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Sunglasses,Home & Kitchen,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Backpack,Sports,2,7975.14,Pending
+69,19-01-2026,Customer_25,Pune,Regular,Shoes,Electronics,2,7975.14,Pending
+70,29-12-2025,Customer_10,Hyderabad,Regular,Laptop,Electronics,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Smartphone,Sports,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Headphones,Books,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,T-Shirt,Clothing,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Jeans,Books,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Blender,Clothing,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Microwave,Electronics,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Novel,Clothing,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Textbook,Sports,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Football,Books,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Yoga Mat,Electronics,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Watch,Books,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Sunglasses,Home & Kitchen,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Backpack,Sports,1,3289.99,Completed
+70,29-12-2025,Customer_10,Hyderabad,Regular,Shoes,Electronics,1,3289.99,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Laptop,Electronics,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Smartphone,Sports,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Headphones,Books,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,T-Shirt,Clothing,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Jeans,Books,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Blender,Clothing,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Microwave,Electronics,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Novel,Clothing,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Textbook,Sports,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Football,Books,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Yoga Mat,Electronics,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Watch,Books,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Sunglasses,Home & Kitchen,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Backpack,Sports,2,6579.98,Completed
+71,23-01-2026,Customer_36,Hyderabad,VIP,Shoes,Electronics,2,6579.98,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Laptop,Electronics,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Smartphone,Sports,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Headphones,Books,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,T-Shirt,Clothing,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Jeans,Books,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Blender,Clothing,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Microwave,Electronics,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Novel,Clothing,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Textbook,Sports,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Football,Books,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Yoga Mat,Electronics,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Watch,Books,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Sunglasses,Home & Kitchen,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Backpack,Sports,4,3051.28,Completed
+72,26-11-2025,Customer_16,Delhi,Premium,Shoes,Electronics,4,3051.28,Completed
+73,13-12-2025,Customer_41,Chennai,Premium,Laptop,Electronics,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Smartphone,Sports,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Headphones,Books,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,T-Shirt,Clothing,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Jeans,Books,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Blender,Clothing,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Microwave,Electronics,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Novel,Clothing,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Textbook,Sports,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Football,Books,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Yoga Mat,Electronics,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Watch,Books,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Sunglasses,Home & Kitchen,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Backpack,Sports,5,23660.3,Cancelled
+73,13-12-2025,Customer_41,Chennai,Premium,Shoes,Electronics,5,23660.3,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Laptop,Electronics,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Smartphone,Sports,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Headphones,Books,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,T-Shirt,Clothing,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Jeans,Books,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Blender,Clothing,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Microwave,Electronics,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Novel,Clothing,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Textbook,Sports,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Football,Books,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Yoga Mat,Electronics,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Watch,Books,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Sunglasses,Home & Kitchen,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Backpack,Sports,3,14196.18,Cancelled
+74,16-01-2026,Customer_7,Mumbai,Regular,Shoes,Electronics,3,14196.18,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Laptop,Electronics,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Smartphone,Sports,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Headphones,Books,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,T-Shirt,Clothing,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Jeans,Books,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Blender,Clothing,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Microwave,Electronics,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Novel,Clothing,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Textbook,Sports,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Football,Books,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Yoga Mat,Electronics,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Watch,Books,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Sunglasses,Home & Kitchen,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Backpack,Sports,5,2910.35,Cancelled
+75,14-12-2025,Customer_23,Hyderabad,Premium,Shoes,Electronics,5,2910.35,Cancelled
+76,18-01-2026,Customer_26,Chennai,VIP,Laptop,Electronics,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Smartphone,Sports,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Headphones,Books,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,T-Shirt,Clothing,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Jeans,Books,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Blender,Clothing,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Microwave,Electronics,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Novel,Clothing,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Textbook,Sports,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Football,Books,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Yoga Mat,Electronics,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Watch,Books,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Sunglasses,Home & Kitchen,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Backpack,Sports,1,582.07,Completed
+76,18-01-2026,Customer_26,Chennai,VIP,Shoes,Electronics,1,582.07,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Laptop,Electronics,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Smartphone,Sports,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Headphones,Books,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,T-Shirt,Clothing,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Jeans,Books,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Blender,Clothing,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Microwave,Electronics,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Novel,Clothing,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Textbook,Sports,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Football,Books,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Yoga Mat,Electronics,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Watch,Books,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Sunglasses,Home & Kitchen,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Backpack,Sports,2,1595.64,Completed
+77,12-01-2026,Customer_10,Hyderabad,Regular,Shoes,Electronics,2,1595.64,Completed
+78,28-11-2025,Customer_46,Mumbai,Regular,Laptop,Electronics,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Smartphone,Sports,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Headphones,Books,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,T-Shirt,Clothing,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Jeans,Books,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Blender,Clothing,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Microwave,Electronics,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Novel,Clothing,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Textbook,Sports,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Football,Books,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Yoga Mat,Electronics,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Watch,Books,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Sunglasses,Home & Kitchen,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Backpack,Sports,4,11283.84,Pending
+78,28-11-2025,Customer_46,Mumbai,Regular,Shoes,Electronics,4,11283.84,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Laptop,Electronics,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Smartphone,Sports,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Headphones,Books,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,T-Shirt,Clothing,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Jeans,Books,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Blender,Clothing,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Microwave,Electronics,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Novel,Clothing,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Textbook,Sports,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Football,Books,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Yoga Mat,Electronics,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Watch,Books,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Sunglasses,Home & Kitchen,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Backpack,Sports,3,2393.46,Pending
+79,30-11-2025,Customer_20,Bangalore,Premium,Shoes,Electronics,3,2393.46,Pending
+80,03-01-2026,Customer_36,Hyderabad,VIP,Laptop,Electronics,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Smartphone,Sports,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Headphones,Books,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,T-Shirt,Clothing,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Jeans,Books,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Blender,Clothing,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Microwave,Electronics,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Novel,Clothing,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Textbook,Sports,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Football,Books,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Yoga Mat,Electronics,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Watch,Books,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Sunglasses,Home & Kitchen,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Backpack,Sports,2,5343.54,Completed
+80,03-01-2026,Customer_36,Hyderabad,VIP,Shoes,Electronics,2,5343.54,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Laptop,Electronics,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Smartphone,Sports,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Headphones,Books,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,T-Shirt,Clothing,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Jeans,Books,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Blender,Clothing,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Microwave,Electronics,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Novel,Clothing,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Textbook,Sports,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Football,Books,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Yoga Mat,Electronics,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Watch,Books,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Sunglasses,Home & Kitchen,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Backpack,Sports,2,7753.96,Completed
+81,10-11-2025,Customer_16,Delhi,Premium,Shoes,Electronics,2,7753.96,Completed
+82,10-12-2025,Customer_37,Mumbai,VIP,Laptop,Electronics,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Smartphone,Sports,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Headphones,Books,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,T-Shirt,Clothing,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Jeans,Books,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Blender,Clothing,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Microwave,Electronics,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Novel,Clothing,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Textbook,Sports,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Football,Books,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Yoga Mat,Electronics,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Watch,Books,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Sunglasses,Home & Kitchen,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Backpack,Sports,5,16449.95,Cancelled
+82,10-12-2025,Customer_37,Mumbai,VIP,Shoes,Electronics,5,16449.95,Cancelled
+83,04-12-2025,Customer_48,Mumbai,Premium,Laptop,Electronics,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Smartphone,Sports,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Headphones,Books,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,T-Shirt,Clothing,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Jeans,Books,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Blender,Clothing,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Microwave,Electronics,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Novel,Clothing,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Textbook,Sports,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Football,Books,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Yoga Mat,Electronics,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Watch,Books,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Sunglasses,Home & Kitchen,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Backpack,Sports,5,2910.35,Pending
+83,04-12-2025,Customer_48,Mumbai,Premium,Shoes,Electronics,5,2910.35,Pending
+84,22-12-2025,Customer_6,Pune,Regular,Laptop,Electronics,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Smartphone,Sports,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Headphones,Books,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,T-Shirt,Clothing,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Jeans,Books,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Blender,Clothing,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Microwave,Electronics,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Novel,Clothing,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Textbook,Sports,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Football,Books,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Yoga Mat,Electronics,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Watch,Books,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Sunglasses,Home & Kitchen,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Backpack,Sports,5,2910.35,Completed
+84,22-12-2025,Customer_6,Pune,Regular,Shoes,Electronics,5,2910.35,Completed
+85,12-01-2026,Customer_28,Chennai,Premium,Laptop,Electronics,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Smartphone,Sports,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Headphones,Books,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,T-Shirt,Clothing,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Jeans,Books,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Blender,Clothing,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Microwave,Electronics,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Novel,Clothing,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Textbook,Sports,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Football,Books,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Yoga Mat,Electronics,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Watch,Books,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Sunglasses,Home & Kitchen,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Backpack,Sports,4,3191.28,Cancelled
+85,12-01-2026,Customer_28,Chennai,Premium,Shoes,Electronics,4,3191.28,Cancelled
+86,03-12-2025,Customer_20,Bangalore,Premium,Laptop,Electronics,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Smartphone,Sports,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Headphones,Books,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,T-Shirt,Clothing,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Jeans,Books,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Blender,Clothing,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Microwave,Electronics,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Novel,Clothing,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Textbook,Sports,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Football,Books,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Yoga Mat,Electronics,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Watch,Books,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Sunglasses,Home & Kitchen,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Backpack,Sports,1,3289.99,Completed
+86,03-12-2025,Customer_20,Bangalore,Premium,Shoes,Electronics,1,3289.99,Completed
+87,09-01-2026,Customer_45,Pune,Premium,Laptop,Electronics,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Smartphone,Sports,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Headphones,Books,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,T-Shirt,Clothing,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Jeans,Books,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Blender,Clothing,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Microwave,Electronics,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Novel,Clothing,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Textbook,Sports,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Football,Books,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Yoga Mat,Electronics,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Watch,Books,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Sunglasses,Home & Kitchen,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Backpack,Sports,4,15950.28,Cancelled
+87,09-01-2026,Customer_45,Pune,Premium,Shoes,Electronics,4,15950.28,Cancelled
+88,26-01-2026,Customer_40,Pune,Regular,Laptop,Electronics,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Smartphone,Sports,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Headphones,Books,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,T-Shirt,Clothing,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Jeans,Books,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Blender,Clothing,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Microwave,Electronics,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Novel,Clothing,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Textbook,Sports,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Football,Books,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Yoga Mat,Electronics,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Watch,Books,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Sunglasses,Home & Kitchen,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Backpack,Sports,1,3289.99,Completed
+88,26-01-2026,Customer_40,Pune,Regular,Shoes,Electronics,1,3289.99,Completed
+89,18-01-2026,Customer_15,Pune,Regular,Laptop,Electronics,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Smartphone,Sports,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Headphones,Books,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,T-Shirt,Clothing,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Jeans,Books,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Blender,Clothing,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Microwave,Electronics,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Novel,Clothing,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Textbook,Sports,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Football,Books,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Yoga Mat,Electronics,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Watch,Books,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Sunglasses,Home & Kitchen,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Backpack,Sports,4,13159.96,Pending
+89,18-01-2026,Customer_15,Pune,Regular,Shoes,Electronics,4,13159.96,Pending
+90,19-01-2026,Customer_31,Chennai,Regular,Laptop,Electronics,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Smartphone,Sports,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Headphones,Books,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,T-Shirt,Clothing,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Jeans,Books,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Blender,Clothing,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Microwave,Electronics,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Novel,Clothing,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Textbook,Sports,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Football,Books,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Yoga Mat,Electronics,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Watch,Books,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Sunglasses,Home & Kitchen,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Backpack,Sports,4,2328.28,Cancelled
+90,19-01-2026,Customer_31,Chennai,Regular,Shoes,Electronics,4,2328.28,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Laptop,Electronics,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Smartphone,Sports,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Headphones,Books,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,T-Shirt,Clothing,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Jeans,Books,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Blender,Clothing,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Microwave,Electronics,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Novel,Clothing,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Textbook,Sports,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Football,Books,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Yoga Mat,Electronics,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Watch,Books,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Sunglasses,Home & Kitchen,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Backpack,Sports,5,19937.85,Cancelled
+91,04-01-2026,Customer_40,Pune,Regular,Shoes,Electronics,5,19937.85,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Laptop,Electronics,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Smartphone,Sports,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Headphones,Books,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,T-Shirt,Clothing,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Jeans,Books,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Blender,Clothing,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Microwave,Electronics,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Novel,Clothing,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Textbook,Sports,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Football,Books,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Yoga Mat,Electronics,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Watch,Books,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Sunglasses,Home & Kitchen,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Backpack,Sports,1,762.82,Cancelled
+92,13-11-2025,Customer_50,Mumbai,Regular,Shoes,Electronics,1,762.82,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Laptop,Electronics,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Smartphone,Sports,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Headphones,Books,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,T-Shirt,Clothing,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Jeans,Books,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Blender,Clothing,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Microwave,Electronics,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Novel,Clothing,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Textbook,Sports,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Football,Books,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Yoga Mat,Electronics,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Watch,Books,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Sunglasses,Home & Kitchen,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Backpack,Sports,5,3814.1,Cancelled
+93,20-12-2025,Customer_1,Bangalore,Regular,Shoes,Electronics,5,3814.1,Cancelled
+94,21-01-2026,Customer_17,Pune,VIP,Laptop,Electronics,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Smartphone,Sports,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Headphones,Books,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,T-Shirt,Clothing,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Jeans,Books,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Blender,Clothing,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Microwave,Electronics,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Novel,Clothing,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Textbook,Sports,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Football,Books,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Yoga Mat,Electronics,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Watch,Books,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Sunglasses,Home & Kitchen,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Backpack,Sports,1,3876.98,Completed
+94,21-01-2026,Customer_17,Pune,VIP,Shoes,Electronics,1,3876.98,Completed
+95,07-01-2026,Customer_16,Delhi,Premium,Laptop,Electronics,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Smartphone,Sports,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Headphones,Books,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,T-Shirt,Clothing,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Jeans,Books,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Blender,Clothing,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Microwave,Electronics,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Novel,Clothing,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Textbook,Sports,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Football,Books,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Yoga Mat,Electronics,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Watch,Books,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Sunglasses,Home & Kitchen,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Backpack,Sports,3,2393.46,Cancelled
+95,07-01-2026,Customer_16,Delhi,Premium,Shoes,Electronics,3,2393.46,Cancelled
+96,15-12-2025,Customer_15,Pune,Regular,Laptop,Electronics,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Smartphone,Sports,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Headphones,Books,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,T-Shirt,Clothing,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Jeans,Books,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Blender,Clothing,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Microwave,Electronics,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Novel,Clothing,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Textbook,Sports,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Football,Books,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Yoga Mat,Electronics,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Watch,Books,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Sunglasses,Home & Kitchen,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Backpack,Sports,1,582.07,Completed
+96,15-12-2025,Customer_15,Pune,Regular,Shoes,Electronics,1,582.07,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Laptop,Electronics,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Smartphone,Sports,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Headphones,Books,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,T-Shirt,Clothing,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Jeans,Books,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Blender,Clothing,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Microwave,Electronics,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Novel,Clothing,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Textbook,Sports,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Football,Books,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Yoga Mat,Electronics,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Watch,Books,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Sunglasses,Home & Kitchen,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Backpack,Sports,1,762.82,Completed
+97,06-02-2026,Customer_45,Pune,Premium,Shoes,Electronics,1,762.82,Completed
+98,24-01-2026,Customer_27,Delhi,Premium,Laptop,Electronics,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Smartphone,Sports,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Headphones,Books,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,T-Shirt,Clothing,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Jeans,Books,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Blender,Clothing,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Microwave,Electronics,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Novel,Clothing,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Textbook,Sports,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Football,Books,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Yoga Mat,Electronics,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Watch,Books,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Sunglasses,Home & Kitchen,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Backpack,Sports,3,7112.01,Cancelled
+98,24-01-2026,Customer_27,Delhi,Premium,Shoes,Electronics,3,7112.01,Cancelled
+99,14-01-2026,Customer_44,Chennai,Premium,Laptop,Electronics,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Smartphone,Sports,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Headphones,Books,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,T-Shirt,Clothing,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Jeans,Books,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Blender,Clothing,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Microwave,Electronics,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Novel,Clothing,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Textbook,Sports,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Football,Books,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Yoga Mat,Electronics,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Watch,Books,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Sunglasses,Home & Kitchen,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Backpack,Sports,3,8015.31,Completed
+99,14-01-2026,Customer_44,Chennai,Premium,Shoes,Electronics,3,8015.31,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Laptop,Electronics,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Smartphone,Sports,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Headphones,Books,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,T-Shirt,Clothing,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Jeans,Books,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Blender,Clothing,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Microwave,Electronics,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Novel,Clothing,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Textbook,Sports,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Football,Books,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Yoga Mat,Electronics,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Watch,Books,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Sunglasses,Home & Kitchen,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Backpack,Sports,5,2910.35,Completed
+100,25-01-2026,Customer_31,Chennai,Regular,Shoes,Electronics,5,2910.35,Completed
