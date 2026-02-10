@@ -462,6 +462,6 @@ With SQL:   Ask any question of the data
 
 ---
 
-*Created: February 2025*  
+*Created: February 2026*  
 *Part of: 30-Day Python Data Analytics Learning Journey*  
 *Repository: [GitHub - Python Learning Journey](https://github.com/Purvaja11/python-learning-journey)*
