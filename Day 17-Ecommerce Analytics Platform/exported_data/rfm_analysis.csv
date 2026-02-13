@@ -1,0 +1,197 @@
+customer_id,name,city,customer_type,recency_days,frequency,monetary,rfm_segment
+146,Customer_146,Chennai,Regular,2,8,74454.63,Champions
+190,Customer_190,Banglore,Regular,4,7,69320.33,Champions
+21,Customer_21,Delhi,Regular,4,9,65318.19,Champions
+106,Customer_106,Pune,Regular,0,7,64197.71,Champions
+82,Customer_82,Mumbai,Regular,5,8,62624.46,Champions
+156,Customer_156,Kolkata,Regular,8,5,59806.76,Champions
+128,Customer_128,Hyderabad,VIP,5,8,59156.88,Champions
+198,Customer_198,Chennai,Regular,1,7,58418.91,Champions
+144,Customer_144,Pune,Regular,1,6,58080.4,Champions
+95,Customer_95,Pune,Regular,3,7,56431.02,Champions
+159,Customer_159,Hyderabad,VIP,2,7,53881.93,Champions
+1,Customer_1,Delhi,Regular,5,6,53616.87,Champions
+176,Customer_176,Kolkata,Regular,4,6,53363.92,Champions
+168,Customer_168,Kolkata,Regular,1,5,53300.36,Champions
+59,Customer_59,Chennai,Regular,6,6,52195.07,Champions
+47,Customer_47,Pune,Regular,1,6,52106.44,Champions
+19,Customer_19,Hyderabad,Regular,0,7,51528.37,Champions
+124,Customer_124,Chennai,Regular,2,5,49054.57,Champions
+63,Customer_63,Ahmedabad,Regular,12,4,48902.87,Loyal
+102,Customer_102,Banglore,Regular,8,9,47860.37,Champions
+43,Customer_43,Pune,Premium,7,4,47529.61,Loyal
+169,Customer_169,Delhi,Regular,2,8,47468.78,Champions
+145,Customer_145,Hyderabad,Regular,1,5,47390.33,Champions
+141,Customer_141,Banglore,Regular,0,7,47294.62,Champions
+72,Customer_72,Delhi,Regular,16,4,46436.01,Loyal
+165,Customer_165,Ahmedabad,Regular,5,4,45791.74,Loyal
+78,Customer_78,Pune,Regular,4,5,45153.45,Champions
+138,Customer_138,Delhi,Premium,14,6,45042.88,Champions
+179,Customer_179,Mumbai,VIP,2,7,44964.22,Champions
+185,Customer_185,Pune,Premium,1,4,44550.03,Loyal
+41,Customer_41,Ahmedabad,Regular,5,7,44306.07,Champions
+4,Customer_4,Mumbai,Regular,1,5,43811.03,Champions
+103,Customer_103,Chennai,Premium,3,4,43754.44,Loyal
+148,Customer_148,Hyderabad,Regular,15,6,41975.11,Champions
+85,Customer_85,Delhi,Regular,2,6,41846.29,Champions
+113,Customer_113,Pune,Regular,3,5,41489.13,Champions
+87,Customer_87,Chennai,Regular,0,3,41473.5,Loyal
+162,Customer_162,Ahmedabad,Regular,0,8,40824.02,Champions
+166,Customer_166,Chennai,Regular,3,9,40331.07,Champions
+93,Customer_93,Mumbai,Regular,4,4,40304.54,Loyal
+35,Customer_35,Kolkata,Regular,23,5,39357.22,Champions
+68,Customer_68,Delhi,Regular,0,6,39336.22,Champions
+84,Customer_84,Delhi,Premium,2,4,39249.53,Loyal
+64,Customer_64,Kolkata,Regular,5,6,38855.53,Champions
+167,Customer_167,Delhi,Regular,8,5,37963.71,Champions
+14,Customer_14,Delhi,Regular,0,6,37920.37,Champions
+109,Customer_109,Kolkata,Regular,0,4,37475.26,Loyal
+46,Customer_46,Mumbai,Regular,33,3,37133.78,Loyal
+147,Customer_147,Delhi,Regular,13,8,35904.59,Champions
+30,Customer_30,Chennai,Premium,1,7,35848.86,Champions
+66,Customer_66,Ahmedabad,Premium,5,5,35352.24,Champions
+164,Customer_164,Ahmedabad,Regular,0,7,35105.51,Champions
+191,Customer_191,Delhi,Regular,5,4,34875.16,Loyal
+20,Customer_20,Chennai,Regular,11,4,34795.55,Loyal
+196,Customer_196,Kolkata,Regular,8,6,34641.03,Champions
+178,Customer_178,Banglore,Premium,4,5,34470.48,Champions
+28,Customer_28,Kolkata,Premium,5,7,33946.61,Champions
+81,Customer_81,Mumbai,Premium,1,5,33909.71,Champions
+12,Customer_12,Pune,Premium,0,6,33805.09,Champions
+173,Customer_173,Kolkata,Regular,13,3,33367.48,Loyal
+195,Customer_195,Mumbai,VIP,14,4,32867.85,Loyal
+53,Customer_53,Chennai,Premium,28,3,32726.22,Loyal
+77,Customer_77,Pune,VIP,21,4,32661.39,Loyal
+61,Customer_61,Pune,Regular,4,7,32412.31,Champions
+150,Customer_150,Banglore,Regular,2,5,32230.47,Champions
+36,Customer_36,Kolkata,Regular,1,7,31930.98,Champions
+155,Customer_155,Mumbai,Premium,3,5,31004.55,Champions
+143,Customer_143,Pune,Regular,5,4,30431.95,Loyal
+9,Customer_9,Pune,Regular,1,5,30268.45,Champions
+89,Customer_89,Hyderabad,VIP,0,6,30018.5,Champions
+153,Customer_153,Chennai,Premium,2,6,29923.65,Champions
+56,Customer_56,Delhi,Regular,11,2,29909.51,Potential
+151,Customer_151,Ahmedabad,Regular,3,7,29759.06,Champions
+174,Customer_174,Pune,Premium,0,7,29664.47,Champions
+183,Customer_183,Chennai,Regular,4,5,29045.75,Champions
+126,Customer_126,Pune,Regular,0,5,28373.94,Champions
+49,Customer_49,Delhi,VIP,1,3,28121.12,Loyal
+158,Customer_158,Delhi,Regular,1,5,27917.21,Champions
+136,Customer_136,Chennai,Regular,2,3,27830.46,Loyal
+100,Customer_100,Pune,VIP,0,4,27741.91,Loyal
+175,Customer_175,Chennai,Regular,9,4,27269.15,Loyal
+97,Customer_97,Pune,Regular,5,5,26485.21,Champions
+187,Customer_187,Hyderabad,Regular,4,4,26015.1,Loyal
+52,Customer_52,Kolkata,VIP,0,2,26004.78,Potential
+181,Customer_181,Banglore,Premium,6,6,25986.51,Champions
+10,Customer_10,Delhi,Regular,8,5,25832.22,Champions
+50,Customer_50,Banglore,Regular,1,3,25706.25,Loyal
+8,Customer_8,Banglore,Regular,3,2,25364.79,Potential
+96,Customer_96,Delhi,Premium,10,2,25328.42,Potential
+161,Customer_161,Ahmedabad,Premium,1,6,24917.4,Champions
+112,Customer_112,Banglore,Regular,0,6,24754.29,Champions
+2,Customer_2,Chennai,Regular,6,5,24511.51,Champions
+11,Customer_11,Hyderabad,Premium,1,5,24496.88,Champions
+115,Customer_115,Delhi,Regular,0,2,24294.26,Potential
+22,Customer_22,Chennai,Regular,2,4,24026.36,Loyal
+18,Customer_18,Kolkata,Regular,3,3,23591.21,Loyal
+186,Customer_186,Mumbai,Premium,3,4,23588.79,Loyal
+99,Customer_99,Mumbai,Regular,0,5,23066.46,Champions
+44,Customer_44,Chennai,Regular,8,2,22958.07,Potential
+65,Customer_65,Kolkata,Regular,1,2,22606.67,Potential
+17,Customer_17,Delhi,Premium,2,3,22158.56,Loyal
+60,Customer_60,Hyderabad,Regular,3,3,21982.38,Loyal
+133,Customer_133,Delhi,Regular,5,2,21740.11,Potential
+58,Customer_58,Delhi,Premium,0,3,21046.79,Loyal
+24,Customer_24,Chennai,Regular,2,2,20517.12,Potential
+38,Customer_38,Delhi,Regular,25,3,20500.2,Loyal
+114,Customer_114,Hyderabad,Regular,9,6,20499.93,Champions
+130,Customer_130,Mumbai,Regular,0,5,20425.84,Champions
+91,Customer_91,Banglore,Regular,8,3,20408.82,Loyal
+83,Customer_83,Banglore,Regular,4,6,20229.96,Champions
+67,Customer_67,Delhi,Regular,0,4,19469.4,Loyal
+180,Customer_180,Mumbai,Regular,4,4,19354.2,Loyal
+98,Customer_98,Pune,Regular,1,3,19297.58,Loyal
+160,Customer_160,Kolkata,Premium,6,2,18538.52,Potential
+123,Customer_123,Hyderabad,Regular,2,4,18236.52,Loyal
+92,Customer_92,Ahmedabad,Regular,14,3,18207.39,Loyal
+154,Customer_154,Ahmedabad,Regular,3,3,18129.27,Loyal
+71,Customer_71,Ahmedabad,Premium,8,3,18036.47,Loyal
+108,Customer_108,Banglore,Premium,5,2,17868.09,Potential
+57,Customer_57,Chennai,Regular,2,4,17520.98,Loyal
+170,Customer_170,Ahmedabad,Regular,4,3,17464.37,Loyal
+6,Customer_6,Kolkata,Regular,8,3,17422.7,Loyal
+116,Customer_116,Kolkata,VIP,3,4,17108.72,Loyal
+197,Customer_197,Delhi,Regular,5,2,16997.77,Potential
+25,Customer_25,Chennai,Premium,2,3,16795.17,Loyal
+13,Customer_13,Delhi,VIP,19,3,16595.94,Loyal
+76,Customer_76,Banglore,Regular,6,2,16423.84,Potential
+120,Customer_120,Pune,Regular,2,2,16403.58,Potential
+122,Customer_122,Chennai,Regular,22,3,16088.16,Loyal
+105,Customer_105,Mumbai,Regular,31,1,16018.11,New/Low Value
+37,Customer_37,Pune,VIP,8,3,15387.74,Loyal
+45,Customer_45,Mumbai,Regular,18,3,15361.29,Loyal
+140,Customer_140,Kolkata,Regular,16,3,15285.58,Loyal
+34,Customer_34,Delhi,Regular,10,5,15144.93,Champions
+184,Customer_184,Kolkata,Regular,5,3,14937.55,Loyal
+39,Customer_39,Pune,Premium,8,2,14936.26,Potential
+80,Customer_80,Chennai,VIP,8,3,14892.85,Loyal
+192,Customer_192,Ahmedabad,Regular,33,3,14757.27,Loyal
+3,Customer_3,Delhi,Regular,32,1,14036.46,New/Low Value
+111,Customer_111,Mumbai,Premium,0,3,13978.92,Loyal
+171,Customer_171,Kolkata,Regular,29,2,13953.42,Potential
+131,Customer_131,Hyderabad,Premium,16,3,13951.02,Loyal
+157,Customer_157,Ahmedabad,Regular,1,2,13685.14,Potential
+193,Customer_193,Banglore,Regular,3,2,13547.93,Potential
+79,Customer_79,Ahmedabad,Regular,3,4,13540.66,Loyal
+107,Customer_107,Banglore,Regular,8,2,13265.32,Potential
+94,Customer_94,Delhi,Regular,10,2,12996.28,Potential
+200,Customer_200,Mumbai,Regular,32,1,12981.22,New/Low Value
+134,Customer_134,Chennai,Regular,35,2,12802.66,Potential
+137,Customer_137,Hyderabad,Regular,9,2,12146.76,Potential
+194,Customer_194,Banglore,VIP,22,2,12085.55,Potential
+62,Customer_62,Banglore,Premium,68,1,11886.82,New/Low Value
+132,Customer_132,Kolkata,Regular,0,1,11481.46,New/Low Value
+119,Customer_119,Kolkata,Premium,14,2,11458.46,Potential
+15,Customer_15,Hyderabad,Regular,11,2,11379.49,Potential
+142,Customer_142,Kolkata,Regular,13,1,11231.16,New/Low Value
+139,Customer_139,Pune,Regular,2,3,10261.71,Loyal
+73,Customer_73,Mumbai,VIP,3,3,10182.78,Loyal
+40,Customer_40,Delhi,Regular,0,2,9846.36,Potential
+152,Customer_152,Ahmedabad,Regular,71,3,9413.47,Potential
+88,Customer_88,Delhi,Regular,17,4,9377.78,Loyal
+189,Customer_189,Chennai,Premium,8,5,8634.0,Champions
+16,Customer_16,Mumbai,Regular,66,1,8566.3,New/Low Value
+26,Customer_26,Kolkata,Regular,17,3,8440.7,Loyal
+5,Customer_5,Mumbai,Regular,45,2,8241.7,Potential
+74,Customer_74,Banglore,Regular,24,1,8090.81,New/Low Value
+75,Customer_75,Chennai,Premium,7,2,7943.58,Potential
+31,Customer_31,Pune,Premium,15,4,7872.67,Loyal
+51,Customer_51,Banglore,Regular,68,2,7853.01,Potential
+54,Customer_54,Hyderabad,Regular,17,2,7057.86,Potential
+104,Customer_104,Pune,Regular,28,2,6579.22,Potential
+163,Customer_163,Pune,Premium,29,3,6458.1,Loyal
+29,Customer_29,Ahmedabad,Regular,9,2,5939.52,Potential
+55,Customer_55,Ahmedabad,Regular,8,2,5802.1,Potential
+110,Customer_110,Delhi,VIP,66,1,5563.13,New/Low Value
+135,Customer_135,Mumbai,Regular,9,1,4970.2,New/Low Value
+188,Customer_188,Mumbai,Premium,9,1,4754.73,New/Low Value
+90,Customer_90,Hyderabad,Regular,13,1,4691.61,New/Low Value
+33,Customer_33,Ahmedabad,Regular,29,1,4554.88,New/Low Value
+7,Customer_7,Pune,Premium,51,1,4283.37,New/Low Value
+86,Customer_86,Kolkata,Regular,2,1,3731.49,New/Low Value
+125,Customer_125,Kolkata,Regular,39,2,3705.44,Potential
+101,Customer_101,Banglore,Regular,20,3,3373.27,Loyal
+172,Customer_172,Mumbai,Premium,61,1,2986.52,New/Low Value
+199,Customer_199,Delhi,Premium,2,2,2701.4,Potential
+118,Customer_118,Kolkata,Regular,10,1,2562.12,New/Low Value
+117,Customer_117,Chennai,Premium,2,2,2347.4,Potential
+69,Customer_69,Ahmedabad,Regular,0,1,2201.38,New/Low Value
+182,Customer_182,Mumbai,Regular,21,1,2169.65,New/Low Value
+27,Customer_27,Hyderabad,Regular,70,1,1594.83,New/Low Value
+32,Customer_32,Kolkata,Regular,30,1,1563.87,New/Low Value
+129,Customer_129,Pune,Regular,8,1,1427.4,New/Low Value
+23,Customer_23,Pune,VIP,0,1,1168.16,New/Low Value
+70,Customer_70,Pune,Regular,89,1,1165.44,New/Low Value
+177,Customer_177,Hyderabad,Regular,25,2,1121.34,Potential
+127,Customer_127,Kolkata,Regular,7,1,983.71,New/Low Value
