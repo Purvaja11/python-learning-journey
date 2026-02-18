@@ -1,0 +1,19 @@
+customer_id,name,email,age,city,salary,join_date,phone,purchase_amount,days_since_joining,value_segment,salary_bracket
+1,Alice Johnson,alice@email.com,28,Mumbai,50000.0,2022-01-15,9876543210,1500.5,1494,Medium,Entry
+2,Bob Smith,bobsmith@email.com,35,Mumbai,75000.0,2021-06-20,9876543211,2300.0,1703,Medium,Mid
+3,Charlie Brown,charlie@email.com,42,Delhi,120000.0,2022-03-20,9876543212,15000.75,1430,VIP,Executive
+4,Diana Prince,diana@email.com,29,Delhi,65000.0,2023-08-10,9876543213,800.25,922,Low,Mid
+5,Eve Wilson,eve@email.com,31,Pune,45000.0,2022-11-05,9876543214,4500.0,1200,High,Entry
+6,Frank Castle,frank@email.com,45,Pune,90000.0,2021-03-22,9876543215,6700.5,1793,High,Senior
+7,Grace Hopper,gracehopper@email.com,38,Bangalore,85000.0,2022-07-15,9876543216,3200.0,1313,High,Senior
+8,Henry Ford,Invalid,27,Bangalore,55000.0,2023-02-28,Not Provided,950.75,1085,Low,Mid
+9,Isabella M.,isabella@email.com,33,Chennai,70000.0,2022-09-14,9876543218,2100.5,1252,Medium,Mid
+10,Jack O'Brien,jack@email.com,29,Chennai,60000.0,2021-12-01,9876543219,1800.0,1539,Medium,Mid
+11,Kate Bush,kate@email.com,41,Hyderabad,95000.0,2023-05-17,9876543220,7800.25,1007,VIP,Senior
+12,Liam Neeson,liam@email.com,36,Hyderabad,80000.0,2022-07-30,9876543221,4300.5,1298,High,Senior
+13,Unknown Customer,Invalid,35,Mumbai,50000.0,2021-08-15,Not Provided,0.0,1647,,Entry
+14,Nina Simone,nina@email.com,44,Delhi,72000.0,2023-01-22,9876543223,3600.75,1122,High,Mid
+15,Oscar Wilde,oscar@email.com,52,Pune,110000.0,2022-04-18,9876543224,9200.0,1401,VIP,Executive
+16,Paul Mccartney,paul@email.com,28,Bangalore,134125.0,2023-03-12,9876543227,0.0,1073,,Executive
+17,Quinn Hughes,quinn@email.com,18,Chennai,58000.0,2022-06-25,9876543228,2800.5,1333,Medium,Mid
+18,Rachel Green,rachel@email.com,80,Hyderabad,63000.0,2021-10-08,9876543229,3100.25,1593,High,Mid
